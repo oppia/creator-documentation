@@ -1,4 +1,3 @@
-
 Oppia User Guide
 ============================================
 
@@ -39,4 +38,3 @@ Admins and Topic Managers of Oppia
    :caption: Lesson Creators
    
    lesson/create
-  

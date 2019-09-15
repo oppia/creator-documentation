@@ -20,10 +20,7 @@ Key Terms used in Oppia
 
 .. _story:
 
-**Story:** Stories are non-contrived (realistic) scenarios that teach the topic. If the topic is Decimals, then the first story - aiming to introduce the concept - might be a scenario where a customer is in a shop and has to pay an amount in dollars and cents. A story consists of a set of :ref:`explorations <explorations>` or lessons.
-
-.. note:: 
-   Stories within a topic have to be linear, i.e., a student must complete a story before beginning the next story.
+**Story:** Stories are non-contrived (realistic) scenarios that teach the topic. If the topic is Decimals, then the first story - aiming to introduce the concept - might be a scenario where a customer is in a shop and has to pay an amount in dollars and cents. A story consists of a linearly ordered set of :ref:`explorations <explorations>` or lessons, i.e., within a story, a student must complete the first lesson before moving on to the second.  
 
 .. _skill:
 
@@ -44,7 +41,7 @@ This diagram summarizes the relationship between the above concepts:
 
 .. note:: 
    * If a skill is not assigned to a subtopic, students will not be able to practice that skill. 
-   * If a subtopic is not created for a topic, students will not be able to practice the topic.
+   * If a topic contains no subtopics, students will not be able to practice the topic.
 
 .. figure:: /images/Subtopic.png
    :alt: Subtopic hierarchy
@@ -79,11 +76,3 @@ This diagram summarizes the relationship between the above concepts:
    :align: center
 
    *Exploration hierarchy in Oppia*
-
-
-
-
-
-
-
-

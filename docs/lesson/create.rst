@@ -34,7 +34,6 @@ Create a new exploration
  * give your exploration a title
  * write the introduction 
 
-
 .. figure:: /images/exploration_editor.png
   :alt: Exploration editor screen
 
@@ -237,5 +236,3 @@ You may add one or more hints to a card in case the learner gets stuck.
    :scale: 40 %
 
    *Fig. 11*
-
-
