@@ -14,9 +14,9 @@ Oppia's mission is to provide high-quality, accessible learning experiences to e
 To begin, we suggest getting  familiar with the :ref:`key terms used in Oppia <keyconcepts>` first.
 
 
-:ref:`Lesson Creators - start here<create>`
+:ref:`Lesson Creators - start here <create>`
 --------------------------------------------
-Learn how to create engaging explorations, including how to :ref:`write a good introduction<introduction>`, and :ref:`plan your exploration<createcontent>`.
+Learn how to create engaging explorations, including how to :ref:`write a good introduction <introduction>`, and :ref:`plan your exploration <createcontent>`.
 
 Contributors to Oppia
 ----------------------
