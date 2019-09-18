@@ -45,6 +45,7 @@ Create a new exploration
 
 .. |pencil| image:: /images/pencil_icon.png
             :scale: 25 % 
+            :alt: Editor button
 
 
 .. figure:: /images/enter_title.png
@@ -75,9 +76,11 @@ Write the introduction
 
 .. |save| image:: /images/save_content.png
           :scale: 35 %
+          :alt: Save Content button
 
 .. |add| image:: /images/add_interaction.png
          :scale: 30%
+         :alt: Add Interaction button
 
 3. A pop-up box will appear for you to choose an interaction. If you haven't yet asked a question to your reader in the Introduction card, you can select '**Continue Button**'. Interactions will be covered in more detail in the :ref:`Add Interactions <addinteractions>` section. 
 
@@ -93,6 +96,7 @@ Write the introduction
 
 .. |saveinteraction| image:: /images/save_interaction.png
                      :scale: 35%
+                     :alt: Save Interaction button
 
 5. You will now see the '**Continue**' button below the Introduction card. Click on the bar below **Learner's Answers and Oppia's Responses** to direct what happens when the button is clicked.
 
@@ -100,6 +104,7 @@ Write the introduction
 
 .. |savedestination| image:: /images/save_destination.png
                      :scale: 35 %
+                     :alt: Save destination button
 
 .. figure:: /images/newcard.png
    :alt: Creating a new card
@@ -179,7 +184,7 @@ Add Responses
 
 .. admonition:: What to think about
    
-   The Response section is where you decide how Oppia should respond based on the learner's answer. Do you want the learner to redo the question or move them to a different card? If you want them to try again, include some constructive feedback about why the answer was wrong. Even if they have answered correctly, explain why the answer was right.
+   The Response section is where you decide how Oppia should respond based on the learner's answer. Do you want the learner to redo the question or move them to a different card? If you want them to :ref:`try again <loopbacks>`, include some constructive feedback about why the answer was wrong. Even if they have answered correctly, explain why the answer was right.
 
 
 1. After you save an interaction, the **Add Response** pop-up box appears.
@@ -188,6 +193,7 @@ Add Responses
 
 .. |addanother| image:: /images/save_add_another.png
                 :scale: 35 %
+                :alt: Save and Add Another button
 
 .. figure:: /images/add_response.png
    :alt: Add response box
@@ -199,6 +205,9 @@ Add Responses
 
 .. |saveresponse| image:: /images/save_response.png
                   :scale: 35 %
+                  :alt: Save Response button
+
+.. _loopbacks:
 
 .. admonition:: A word on Loopbacks
    
@@ -224,11 +233,13 @@ You may add one or more hints to a card in case the learner gets stuck.
 
 .. |addhint| image:: /images/add_hint.png
               :scale: 35 %
+              :alt: Add Hint button
 
 2. The **Add Hint** pop-up box appears. Type in the hint and click the |savehint| button.
 
 .. |savehint| image:: /images/save_hint.png
               :scale: 35 %
+              :alt: Save Hint button
 
 .. figure:: /images/addhint_box.png
    :alt: Add Hint box
