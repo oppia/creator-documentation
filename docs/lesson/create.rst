@@ -207,6 +207,14 @@ Add Responses
                   :scale: 35 %
                   :alt: Save Response button
 
+4. You will notice a checkbox titled **Solicit Answer Details** when you come back to the Editing screen. If you would like Oppia to ask the learner to explain why they chose the answer on that card, checkmark this box. You can find more details on this in the :ref:`Improvements tab <answerdetails>` page.
+
+.. figure:: /images/solicit_answer_details.png
+   :alt: Solicit answer details checkbox
+   :scale: 40 %
+
+   *Fig. 11*
+
 .. _loopbacks:
 
 .. admonition:: A word on Loopbacks
