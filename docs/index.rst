@@ -38,3 +38,4 @@ Admins and Topic Managers of Oppia
    :caption: Lesson Creators
    
    lesson/create
+   lesson/edit
