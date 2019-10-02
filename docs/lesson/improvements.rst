@@ -18,7 +18,7 @@ Watch this video to learn how to improve your exploration, or if you prefer read
 
 .. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/fjQdl6i0vu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/TnNdthvuWRQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. _improvementtab:
 
@@ -29,6 +29,17 @@ Oppia's explorations are designed to be improved over time as learners engage wi
 
 1. Click the |improvements| **Improvements** button in the navigation menu. 
 2. At the very top of the page, you can see how many **Open Tasks** are waiting for your review. 
+
+.. note::
+
+   By default, only *open* tasks are shown in the Improvements screen. If you want to see tasks that have been previously resolved, uncheck the **Show only "Open" tasks** box. This will show you any **feedback** or **suggestions** that you previously received on the exploration. All other tasks—once resolved—are permanently deleted.
+
+   .. figure:: /images/show_hidden_task.png
+      :alt: Show hidden tasks
+      :scale: 30 %
+
+      *Fig. 1*
+
 
 The following are the types of open tasks you might see.
 
@@ -41,19 +52,19 @@ The following are the types of open tasks you might see.
 Feedback on a card
 -------------------
 
-Learners have the option to provide feedback on each card as they playthrough an exploration, as well as at the end when they are asked to review the exploration. If they have provided any feedback, you will see a task similar to the image below.
+Learners have the option to provide feedback on each card as they play through an exploration, as well as at the end when they are asked to review the exploration. If they have provided any feedback, you will see a task similar to the image below.
 
 .. figure:: /images/feedback_task.png
    :alt: Feedback task
    :scale: 40 %
 
-   *Fig. 1*
+   *Fig. 2*
 
 1. To change the status of the feedback or write a message in response to the feedback for your record, click on the |reviewthread| button.
 2. Click |sendandclose| when done.
 
 .. caution:: 
-   Leave the status at *Open* if you are still working on the task. Only use the other options when you are ready to remove the task from the Improvements screen.
+   Leave the status at *Open* if you are still working on the task. Only use the other options if you want to hide the task from the Improvements screen.
 
 .. |reviewthread| image:: /images/review_thread_button.png
                   :alt: Review Thread button
@@ -63,7 +74,7 @@ Learners have the option to provide feedback on each card as they playthrough an
    :alt: Review feedback message box
    :scale: 40 %
 
-   *Fig. 2*
+   *Fig. 3*
 
 .. _suggestions:
 
@@ -76,9 +87,9 @@ Learners also have the option to suggest an *edit* on one or more cards, e.g., a
    :alt: Suggestion task
    :scale: 40 %
 
-   *Fig. 3*
+   *Fig. 4*
 
-1. Click the |reviewthread| button and then the |reviewsuggestion| button to action this suggestion.
+1. Click the |reviewthread| button and then the |reviewsuggestion| button to take action on this suggestion.
 
 .. |reviewsuggestion| image:: /images/review_suggestion_button.png
                       :alt: Review Suggestion button
@@ -90,7 +101,7 @@ Learners also have the option to suggest an *edit* on one or more cards, e.g., a
    :alt: Review suggestion box
    :scale: 40 % 
 
-   *Fig. 4*
+   *Fig. 5*
 
 3. Enter a new message if you wish to add to the message thread and change the status of the suggestion as required. Finally, click the |sendandclose| button. 
 
@@ -102,7 +113,7 @@ Learners also have the option to suggest an *edit* on one or more cards, e.g., a
    :alt: Suggestion message box
    :scale: 30 %
 
-   *Fig. 5*
+   *Fig. 6*
 
 .. _answerdetails:
 
@@ -115,7 +126,7 @@ If you checkmarked the **Solicit Answer Details** box while creating your explor
    :alt: Solicit answer details checkbox
    :scale: 40 %
 
-   *Fig. 6*
+   *Fig. 7*
 
 Whenever a learner explains why they chose their answer for a card, you will see the details in the Improvements screen as shown below.
 
@@ -123,7 +134,7 @@ Whenever a learner explains why they chose their answer for a card, you will see
    :alt: Answer details task
    :scale: 40 %
 
-   *Fig. 7*
+   *Fig. 8*
 
 1. To review the details, click the |reviewanswerdetails| button and click under **Answer details** to expand the comment.
 
@@ -135,7 +146,7 @@ Whenever a learner explains why they chose their answer for a card, you will see
    :alt: Review answer details
    :scale: 40 %
 
-   *Fig. 8*
+   *Fig. 9*
 
 
 2. To delete the **Answer details** task, checkmark the **Select** box and click on the |deleteitems| box.
@@ -147,7 +158,7 @@ Whenever a learner explains why they chose their answer for a card, you will see
 
 .. admonition:: An example on improving an exploration
 
-   Let's say you asked the question: **Which is greater: 0.834 or 0.2?** and requested an explanation from the learner for their answer. The learner selected the right answer but explained they chose it because it was a longer number. This is obviously a misconception, so you may then decide to include additional cards beforehand or :ref:`branch out <addbranch>` to focus on place value or the decimal-fraction link.
+   Let's say you asked the question: **Which is greater: 0.834 or 0.2?** and requested an explanation from the learner for their answer. The learner selected the right answer, but explained they chose it because it was a longer number. This is obviously a misconception, so you may then decide to include additional cards beforehand or :ref:`branch out <addbranch>` to focus on place value or the decimal-fraction link.
 
 .. _earlyexit:
 
@@ -160,7 +171,7 @@ Another issue you might see here is when a learner quits your exploration early 
    :alt: Early Quit Playthrough task
    :scale: 35 %
 
-   *Fig. 9*
+   *Fig. 10*
 
 Oppia will provide one or more sample playthroughs that will outline exactly how the learner proceeded through the exploration from start to finish.
 
@@ -170,7 +181,7 @@ Oppia will provide one or more sample playthroughs that will outline exactly how
    :alt: Sample playthrough
    :scale: 40 %
 
-   *Fig. 10*
+   *Fig. 11*
 
 2. To permanently remove the task from the Improvements tab, click the |resolved| button. 
 
@@ -192,7 +203,7 @@ Oppia can also flag when a learner submits an incorrect answer several times on 
    :alt: Multiple incorrect answer task
    :scale: 40 %
 
-   *Fig. 11*
+   *Fig. 12*
 
 1. To see exactly what the learner did, click on the green **View Playthrough** button.
 
@@ -205,7 +216,7 @@ Oppia can also flag when a learner submits an incorrect answer several times on 
       :alt: Adding a new response
       :scale: 45 %
 
-      *Fig. 12*
+      *Fig. 13*
 
 .. _cyclicloop:
 
@@ -218,7 +229,7 @@ If a card in your exploration loops back to an earlier card in case of an incorr
    :alt: Cyclic playthrough task
    :scale: 40 %
 
-   *Fig. 13*
+   *Fig. 14*
 
 
 1. To see exactly what the learner did, click on the green **View Playthrough** button.
@@ -227,7 +238,7 @@ If a card in your exploration loops back to an earlier card in case of an incorr
    :alt: Sample Cyclic Playthrough
    :scale: 40 %
 
-   *Fig. 14*
+   *Fig. 15*
 
 2. To permanently remove the task from the Improvements tab, click the |resolved| button. 
 
@@ -255,7 +266,7 @@ Let's look at an example where the learner is asked to compare decimal place val
    :alt: Exploration card question
    :scale: 40 %
 
-   *Fig. 15*
+   *Fig. 16*
 
 If you notice quite a few students have been answering 'Hundredths' to this question, this is an indication that they are mistakenly equating place values for decimals with place values for whole numbers. To correct this misconception, you can branch out from this card and provide further explanation.
 
@@ -271,7 +282,7 @@ If you notice quite a few students have been answering 'Hundredths' to this ques
    :alt: Creating new card
    :scale: 40 %
 
-   *Fig. 16*
+   *Fig. 17*
 
 3. The new card is now visible in the **Exploration Overview** section. Click on this card to add content. 
 
@@ -279,7 +290,7 @@ If you notice quite a few students have been answering 'Hundredths' to this ques
    :alt: New card in Exploration Overview
    :scale: 40 %
 
-   *Fig. 17*
+   *Fig. 18*
 
 You may choose to add several cards on this branch and then finally redirect the learner back to a card on the main path of the exploration. 
 
@@ -287,4 +298,4 @@ You may choose to add several cards on this branch and then finally redirect the
    :alt: New branch in exploration overview
    :scale: 40 %
 
-   *Fig. 18*
+   *Fig. 19*
