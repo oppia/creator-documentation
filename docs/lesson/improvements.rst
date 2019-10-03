@@ -149,7 +149,7 @@ Whenever a learner explains why they chose their answer for a card, you will see
    *Fig. 9*
 
 
-2. To delete the **Answer details** task, checkmark the **Select** box and click on the |deleteitems| box.
+2. To delete any **Answer details** received, checkmark the **Select** box next to each of them and click on the |deleteitems| box.
 
 .. |deleteitems| image:: /images/delete_selected_items.png
                  :alt: Delete Selected items box
