@@ -38,10 +38,6 @@ Admins and Topic Managers of Oppia
    :caption: Lesson Creators
    
    lesson/create
-<<<<<<< Updated upstream
-   lesson/edit
-=======
    lesson/edit
    lesson/improvements
    lesson/settings
->>>>>>> Stashed changes
