@@ -33,7 +33,6 @@ Admins and Topic Managers of Oppia
 
 .. toctree::
    :hidden:
-   :includehidden:
    :maxdepth: 3
    :caption: Lesson Creators
    
@@ -41,3 +40,12 @@ Admins and Topic Managers of Oppia
    lesson/edit
    lesson/improvements
    lesson/settings
+
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+   :caption: Topic Managers and Admins
+
+   admins/guide
+   admins/skills
+   admins/topic
