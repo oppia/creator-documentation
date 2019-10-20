@@ -40,3 +40,4 @@ Admins and Topic Managers of Oppia
    lesson/create
    lesson/edit
    lesson/improvements
+   lesson/settings
