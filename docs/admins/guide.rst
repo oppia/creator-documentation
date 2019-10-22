@@ -100,7 +100,7 @@ The skill table should look like this:
 
 .. topic:: Explanation of columns in Skill Table
 
-    * **Skill**: The skills you list here are the same as in the :ref:`Skill Tree <skilltree>`. Start with a target question in mind and work backwards to determine what skills students need to answer it. The more more detailed you can get while working backwards step-by-step, the more skills you will be able to identify. Be aware of potential 'hidden' skills that aren't taught explicitly in the lessons.
+    * **Skill**: The skills you list here are the same as in the :ref:`Skill Tree <skilltree>`. Start with a target question in mind and work backwards to determine what skills students need to answer it. The more detailed you can get while working backwards step-by-step, the more skills you will be able to identify. Be aware of potential 'hidden' skills that aren't taught explicitly in the lessons.
 
     * **Specific Errors**: The description of misconceptions should be really specific, such that anyone should be able to read the misconception and predict how a student will answer given a question. In other words, it is insufficient to just say, "Student cannot do skill X correctly."
 
