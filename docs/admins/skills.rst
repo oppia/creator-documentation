@@ -10,7 +10,7 @@ Watch this video to learn how to create a skill, or if you prefer reading the in
 
 .. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/f2yZseeNPD4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/0yyeGtSChsM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. _newskill:
 
@@ -75,6 +75,10 @@ Writing the Concept Card for a skill
                   :alt: Publish Skill button
                   :scale: 35 %
 
+.. attention::
+
+   You won't be able to publish a skill until the **Skill Description** and **Review Material** fields are filled out. While the other fields are not mandatory, they should still be filled out to enhance learner experience.
+   
 .. figure:: /images/skills_created.png
    :alt: Skills listed in the dashboard
    :scale: 30 %

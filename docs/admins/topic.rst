@@ -103,10 +103,10 @@ Importing an exploration
 
 When you create a chapter, you will see the following fields:
 
- * **Chapter Outline**: Enter a description of what the chapter will entail.
+ * **Chapter Outline**: Enter a description of what the lesson will entail. This will guide exploration creators when they create the lesson.
  * **Exploration ID**: Import a published exploration by :ref:`entering its ID <findid>`. You will not be able to publish the story without completing this step.
- * **Prerequisite Skill IDs**: Select prerequisite skills for this lesson based on those identified in the :ref:`Skill Table <skilltable>`.
- * **Acquired Skill IDs**:  Select acquired skills for this lesson based on those identified in the :ref:`Skill Table <skilltable>`.
+ * **Prerequisite Skill IDs**: Select prerequisite skills for this lesson based on those identified in the :ref:`Skill Tree <skilltree>`.
+ * **Acquired Skill IDs**:  Select acquired skills for this lesson based on those identified in the :ref:`Skill Tree <skilltree>`.
  * **New Chapter**: Click |addchapter| to create a new chapter for the story. As you create chapters, they are shown as a list on the left-hand side. Click on the new chapter here to import another exploration and select skills. Continue adding new chapters as needed for this story.
 
 .. |addchapter| image:: /images/add_new_chapter.png

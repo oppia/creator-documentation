@@ -1,30 +1,73 @@
 Guide to planning a lesson
 ============================
 
-This section will discuss an apporach to creating engaging and effective lessons in Oppia. Whether students come to Oppia to reinforce what they learn in school, fill the gaps in their understanding, or learn something completely new—the goal for lesson creators is to consistently provide high quality lessons. Everything done within Oppia is with this goal in mind.
+This section will discuss an approach to creating engaging and effective lessons in Oppia. Whether students come to Oppia to reinforce what they learn in school, fill the gaps in their understanding, or learn something completely new—the goal for lesson creators is to consistently provide high quality lessons. Everything done within Oppia is with this goal in mind.
 
 Before reading on, make sure you are familiar with the :ref:`key terms used in Oppia <keyconcepts>` and the relationship between them.
 
 From a high-level perspective, the process of lesson creation looks like this:
 
-.. figure:: /images/Lesson_creation_guide.png
+.. figure:: /images/lesson_planning_guide.png
    :alt: Lesson Creation Process
    :align: center
 
    *Lesson Creation Process*
+
+
+This page will elaborate on some of the steps in this process namely:
+
+ * Creating a Skill Tree
+ * Creating Questions for Skills
+ * Developing a Story Outline
+ * Developing a Chapter Outline
+
+Information on the remaining steps can be found in the contents section.
 
 .. _skilltree:
 
 Creating a Skill Tree
 ----------------------
 
-A **Skill Tree** essentially means identifying and describing the :ref:`skills <skill>` that you want the learner to master. This is the starting point for creating any lesson and is a challenging, but important step. A good way to approach this might be to think of complex questions and work backwards to identify the skills needed to answer those questions. A bulleted list form is absolutely fine.
+A **Skill Tree** essentially means identifying and describing the :ref:`skills <skill>` that you want the learner to master within the topic. This is the starting point for creating any lesson and is a challenging, but important step. A good way to approach this might be to think of complex questions and work backwards to identify the skills needed to answer those questions. 
 
-Skill descriptions should:
+.. topic:: Parts of a Skill Tree
 
- * Be atomic, concrete and specific.
- * Describe an observable behaviour.
- * Generally use the format "Given X, compute/calculate etc. Y." For example, "Given a decimal number, state the place value of each digit."
+   The following information is required to create skills:
+
+   1. **Skill Description**:
+   Skill descriptions should:
+
+    * Be atomic, concrete and specific.
+    * Describe an observable behaviour.
+    * Generally use the format "Given X, compute/calculate etc. Y." For example, "Given a decimal number, state the place value of each digit."
+
+   2. **Review Material**:
+   In this section, you will give a broader explanation of the skill to help the learner understand the skill concept. This information as well as the next section 'Worked Examples' will be shown to the learner if they have trouble answering questions related to the skill.
+
+   .. admonition:: Example
+   
+      If the skill is '**Identify the whole and fractional parts of a decimal**', then the review material might contain information like 'The numbers to the left of the point represent the whole number that is greater than 0, the numbers to the right represent the fractional part of the number.'
+
+   The above two sections are mandatory to publishing a skill in Oppia. However, the following fields should be filled out as well to enhance the learning experience. 
+
+   3. **Worked Examples**:
+   Provide a list of examples that show the learner how the skill can be used to solve questions. You will be able to add images, videos, links etc. when you create this in Oppia.
+
+   4. **Misconceptions**:
+   List common mistakes and misconceptions that a learner would have when dealing with the skills. The description of misconceptions should be really specific, such that anyone should be able to read the misconception and predict how a student will answer given a question. In other words, it is insufficient to just say, "Student cannot do skill X correctly." 
+
+   In addition, write down feedback for each misconception you identify that will be shown in the answer group for the question linked to this skill. This information will help question creators ensure that they address misconceptions and provide detailed feedback when creating questions and answer groups for the skill.
+
+   5. **Rubrics**:
+   Rubrics are useful for question creators so they have a guideline when creating questions. Rubrics can be identified for three levels of difficulty—Easy, Medium and Hard. 
+
+   .. admonition:: Example
+
+      For the skill '**Identify the whole and fractional parts of a decimal**', a rubric for an 'Easy' question might be:
+      Given a decimal number, identify the whole number and and fractional parts of the number.
+   
+      A rubric for a 'Hard' question for this skill might be:
+      Given a decimal number less than 1, identify the whole number and fractional parts of the number.
 
 .. topic:: Guidelines to creating a Skill Tree
 
@@ -38,26 +81,36 @@ Skill descriptions should:
       * Given a decimal number, identify the whole number and fractional parts of the decimal.
       * Given a whole number, write the decimal equivalent, and so on.
 
-   The more skills you can generate, the easier it will be to scaffold the skills and guide students towards a deeper understanding of a topic. During the review process, you will work with your reviewer to determine what skills should be included or excluded within the topic.
+   The more skills you can generate, the easier it will be to scaffold the skills and guide students towards a deeper understanding of a topic. During the review process, you will work with your reviewer to determine what skills should be included or excluded within the topic. Be aware of potential 'hidden' skills that aren't taught explicitly in the lessons.
 
    2. **Think logical.** Arrange the skills in increasing order of complexity. This will make it easier to plan the lesson structure in the next step. As students progress through lessons, they will be able to build upon knowledge and skills previously acquired.
 
-   3. **Group skills into lessons.** Once you have a list arranged from simple to complex, group the skills into lessons.
+   3. **Group skills into subtopics.** Once you have a list arranged from simple to complex, group the skills into subtopics. This gives students the opportunity to review and practice skills.
 
    .. admonition:: Example
 
-      **Lesson 1: Introduction to Decimals**
+      **Subtopic: Introduction to Decimals**
        * Given a decimal with a zero in the one's place, recognize that the decimal is less than one.
        * Given a decimal number, identify the whole number and fractional parts of the decimal.
 
-      **Lesson 2: Decimal concepts**
+      **Subtopic: Decimal concepts**
        * Given a decimal number, state the place value of each digit.
        * Given a decimal with hundredths place value, round it to the nearest tenths.
    
-   You may choose to repeat similar skills in different lessons.
-
+   You may choose to repeat similar skills in different subtopics.
 
    4. **Prerequisite skills.** Specify prerequisite skills that a learner would need to have that may not be part of the topic scope. The prerequisites should also include specific skills from previous lessons in the series. These will be used to generate random review questions at the start of each lesson to determine whether the student has indeed mastered the skills they need for the present topic. 
+
+   5. **Acquired skills.** List all the skills that learners will acquire by the end of the lesson.
+
+Creating Questions for Skills
+-------------------------------
+
+Questions for skill practice can either be created directly by Topic Managers and Admins or suggested from contributors to Oppia. When creating questions, ensure that:
+
+ * All misconceptions attached to the skill have been addressed in the answer groups,
+ * Questions include hints and solutions, and
+ * At least one of the answer groups is marked as correct.
 
 Developing a Story Outline
 ---------------------------
@@ -77,97 +130,8 @@ Your high-level story outline will include:
  * A brief overview of the characters, settings and premise.
  * One to two paragraphs describing what happens in each lesson.
 
-.. _skilltable:
 
-Creating a Skill Table
------------------------
-
-The Skill Table is where you will build upon the previous two steps and further elaborate the skills you have identified. Before you create the table however, list the Prerequisite skills, Acquired skills and Practiced skills for the lesson.
-
- * **Prerequisite skills**: Skills the learner would need before starting the lesson.
- * **Acquired skills**: Skills the learner will acquire by the end of the lesson.
- * **Practiced skills**: Skills that will be taught and practiced during the lesson.
-
-
-The skill table should look like this:
-
-.. figure:: /images/skill_table_format.png
-   :alt: Skill Table format
-   :align: center
-
-   *Skill Table*
-
-
-.. topic:: Explanation of columns in Skill Table
-
-    * **Skill**: The skills you list here are the same as in the :ref:`Skill Tree <skilltree>`. Start with a target question in mind and work backwards to determine what skills students need to answer it. The more detailed you can get while working backwards step-by-step, the more skills you will be able to identify. Be aware of potential 'hidden' skills that aren't taught explicitly in the lessons.
-
-    * **Specific Errors**: The description of misconceptions should be really specific, such that anyone should be able to read the misconception and predict how a student will answer given a question. In other words, it is insufficient to just say, "Student cannot do skill X correctly."
-
-    * **Remediation**: Some things you might list here include "Return to card that (addresses the misconception)." or "Show a picture that (clarifies a misunderstanding)."
-
-    * **Development of the Topic**: This is the precursor to your script and the most important column. The questions you list here will appear in the :ref:`script <script>`. Make sure each question only introduces *one* new skill to ensure you aren't making leaps too big for the learner's understanding.
-    
-    Some special notations in this column include:
-
-     - **[Concept]** tag: Denotes questions that introduce new concepts.
-     - **[Test]** tag: Denotes questions that reinforce previous concepts in the lesson.
-     - **[Recap]** tag: Denotes questions that reinforce previous concepts in past lessons.
-     - **[Final Challenge]** tag: These are always at the *end* of the lesson and denote a series of questions that test skills taught within the lesson.
-     - Colour code all types of questions with a Green, Yellow or Red highlight to denote level of difficulty.
-
-    * **Additional Recap Questions**: The questions you list here will be added to the question bank which will allow Oppia to randomly generate equivalent questions for students—leading to a varying learning experience each time the student takes the lesson. Use the same denotations as listed in the previous column.
-
-.. admonition:: Example
-   
-    * **Prerequisite Skills**: State place value of whole numbers
-    * **Acquired Skills**: Identify tenths and hundredths place value in a decimal number.
-    * **Practiced Skills**: State place value of decimal numbers.
-
-   .. figure:: /images/skill_table.png
-      :alt: Decimal Skill Table example
-      :align: center
-
-      *Skill Table for a lesson 'Introduction to Decimals'*
-
-   The above example only lists the very first skill that this lesson would teach. A green highlight denotes the [CONCEPT] question as **Easy**. The table would continue to describe all the skills covered in the lesson.
-
-.. _script:
-
-Writing the Script
--------------------
-
-In this stage, you will use the information from the above steps to write the script for your lesson and draft what the final product will look like in Oppia. Your script will flow from the **Development of the Topic** column of the Skill Table you created above. More specifically it will include:
-
- * Named cards that specify the exact dialogue, interaction type and responses.
- * Graphic requirements.  
-
-When writing, keep the style simple and the dialogue succinct, engaging and close to the content being taught.
-
-.. admonition:: Example
-   
-   **Card name**: Introduction
-   
-   **Content**: Chloe likes the colour purple and her favourite animal is a dog. She also loves going to the shop after school to buy candy. We're going to go with Chloe to the shop today because she is about to learn decimals (but doesn't know it yet!). 
-
-   Before you continue, you should know 
-
-    * what a fraction is, 
-    * and can read and write fractions whole number place value.
-
-   Ready to begin? Let's go!     
-
-   **Interaction type**: Continue button
-
-   **Graphic requirements**: Image of young girl
-
-Graphics and Implementation
+Developing a Chapter Outline
 -----------------------------
 
-In this final stage, you will take all the information you generated from the steps above and put it into the Oppia platform. You will write the script verbatim from the previous step.
-
-You will also be paired with a graphics designer who will help create the graphics in your script.
-
-.. note::
-
-   When working with images, crop them to remove any empty space around the edges and make the alt text descriptive for users who cannot see the images. 
+Chapter outlines will serve as a guide for lesson creators when :ref:`creating an exploration <create>` for that chapter. The outlines will inform as to what the exploration should contain.
