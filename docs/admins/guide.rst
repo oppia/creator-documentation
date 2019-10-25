@@ -28,7 +28,7 @@ Information on the remaining steps can be found in the contents section.
 Creating a Skill Tree
 ----------------------
 
-A **Skill Tree** essentially means identifying and describing the :ref:`skills <skill>` that you want the learner to master within the topic. This is the starting point for creating any lesson and is a challenging, but important step. A good way to approach this might be to think of complex questions and work backwards to identify the skills needed to answer those questions. 
+A **Skill Tree** essentially means identifying and describing the :ref:`skills <skill>` that you want the learner to master within the topic. This is the starting point for creating any lesson and is a challenging, but important step. A good way to approach this might be to look at a list of relevant questions and work backwards to identify the skills needed to answer those questions. 
 
 .. topic:: Parts of a Skill Tree
 
@@ -83,9 +83,9 @@ A **Skill Tree** essentially means identifying and describing the :ref:`skills <
 
    The more skills you can generate, the easier it will be to scaffold the skills and guide students towards a deeper understanding of a topic. During the review process, you will work with your reviewer to determine what skills should be included or excluded within the topic. Be aware of potential 'hidden' skills that aren't taught explicitly in the lessons.
 
-   2. **Think logical.** Arrange the skills in increasing order of complexity. This will make it easier to plan the lesson structure in the next step. As students progress through lessons, they will be able to build upon knowledge and skills previously acquired.
+   2. **Think logically.** Arrange the skills in such an order that they build upon one another, i.e. a learner should be able to acquire a skill without a prerequisite knowledge of skills that come after it. This will make it easier to plan the lesson structure in the next step. As students progress through lessons, they will be able to build upon knowledge and skills previously acquired.
 
-   3. **Group skills into subtopics.** Once you have a list arranged from simple to complex, group the skills into subtopics. This gives students the opportunity to review and practice skills.
+   3. **Group skills into subtopics.** Once you have a list of skills arranged in a logical manner as described above, group the skills into subtopics. This gives students the opportunity to review and practice skills.
 
    .. admonition:: Example
 
@@ -97,8 +97,6 @@ A **Skill Tree** essentially means identifying and describing the :ref:`skills <
        * Given a decimal number, state the place value of each digit.
        * Given a decimal with hundredths place value, round it to the nearest tenths.
    
-   You may choose to repeat similar skills in different subtopics.
-
    4. **Prerequisite skills.** Specify prerequisite skills that a learner would need to have that may not be part of the topic scope. The prerequisites should also include specific skills from previous lessons in the series. These will be used to generate random review questions at the start of each lesson to determine whether the student has indeed mastered the skills they need for the present topic. 
 
    5. **Acquired skills.** List all the skills that learners will acquire by the end of the lesson.
@@ -115,7 +113,7 @@ Questions for skill practice can either be created directly by Topic Managers an
 Developing a Story Outline
 ---------------------------
 
-Usually a topic will have one story that will span across different lessons. At this stage, you will draft a high-level story for each lesson.
+Usually a topic will have one story that will span across different lessons. At this stage, you will draft a high-level story for each lesson. As far as possible, try to make the content universal and free from culture or country-specific references.
 
 Stories are what make Oppia lessons so engaging for learners. You don't have to overdo it with the story details and plot—after all, the concept being taught should be driving the lessons forward. You want just enough of a story arc to keep learners engaged and empathetic with your main character. Like any good story, there should be a challenge for your protagonist (a possible trap or misconception) that they overcome; with the learner also feeling that accomplishment by the end of the lesson.
 
@@ -130,8 +128,7 @@ Your high-level story outline will include:
  * A brief overview of the characters, settings and premise.
  * One to two paragraphs describing what happens in each lesson.
 
-
 Developing a Chapter Outline
 -----------------------------
 
-Chapter outlines will serve as a guide for lesson creators when :ref:`creating an exploration <create>` for that chapter. The outlines will inform as to what the exploration should contain.
+Chapter outlines will serve as a guide for lesson creators when :ref:`creating an exploration <create>` for that chapter. The outlines will inform as to what the exploration should contain. 
