@@ -6,7 +6,13 @@ In this section, you will learn how to:
  * :ref:`Create a new topic <createtopic>`
  * :ref:`Create a new story <createstory>`
  * :ref:`Create a new chapter <createchapter>`
-         - :ref:`Import an exploration in a chapter <importexploration>`
+ * :ref:`Import an exploration in a chapter <importexploration>`
+
+Watch this video to learn how to create a skill, or if you prefer reading the instructions instead, keep scrolling down.
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/-VBNUNTG8lQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. _createtopic:
 
@@ -104,10 +110,16 @@ Importing an exploration
 When you create a chapter, you will see the following fields:
 
  * **Chapter Outline**: Enter a description of what the lesson will entail. This will guide exploration creators when they create the lesson.
- * **Exploration ID**: Import a published exploration by :ref:`entering its ID <findid>`. You will not be able to publish the story without completing this step.
- * **Prerequisite Skill IDs**: Select prerequisite skills for this lesson based on those identified in the :ref:`Skill Tree <skilltree>`.
- * **Acquired Skill IDs**:  Select acquired skills for this lesson based on those identified in the :ref:`Skill Tree <skilltree>`.
+ * **Exploration ID**: Import a published exploration by :ref:`entering its ID <findid>`. You will not be able to publish the story or save changes to your chapter without completing this step.
+ * **Prerequisite Skill IDs**: Select prerequisite skills for this lesson based on those identified in the :ref:`Skill Tree <skilltree>` by clicking |addprerequisite|.
+ * **Acquired Skill IDs**:  Select acquired skills for this lesson based on those identified in the :ref:`Skill Tree <skilltree>` by clicking |addacquired|.
  * **New Chapter**: Click |addchapter| to create a new chapter for the story. As you create chapters, they are shown as a list on the left-hand side. Click on the new chapter here to import another exploration and select skills. Continue adding new chapters as needed for this story.
+
+.. |addprerequisite| image:: /images/add_prerequisite_skill.png
+                     :scale: 40 %
+
+.. |addacquired| image:: /images/add_acquired_skill.png
+                 :scale: 40 %
 
 .. |addchapter| image:: /images/add_new_chapter.png
                 :scale: 35 %
