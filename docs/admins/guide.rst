@@ -121,7 +121,7 @@ A good way to approach this step is to think of a practical, real-world setting 
 
 .. admonition:: Example
 
-   A good real-world example for Decimals is prices in dollars and cents. A story emanating from this idea might be a young girl in a shop grappling with a price as she tries to relate it to decimal concepts. This setting might then span several lessons as the character learns how to read the price, connects the tenths and hundredths place values to dimes and pennies, compares decimal place values and so on.
+   A good real-world example for Decimals is expressing time in hours, minutes and seconds. A story emanating from this idea might be a young child who has been tasked with recording the swim time of her competing classmates using a stopwatch. This setting might span several lessons as the character learns how to read the resulting times, connects the tenths and hundredths place values to minutes and seconds, compares decimal place values and so on.
 
 Your high-level story outline will include:
 
