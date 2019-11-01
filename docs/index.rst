@@ -49,3 +49,4 @@ Admins and Topic Managers of Oppia
    admins/guide
    admins/skills
    admins/topic
+   admins/assignskill
