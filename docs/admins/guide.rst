@@ -106,9 +106,13 @@ Creating Questions for Skills
 
 Questions for skill practice can either be created directly by Topic Managers and Admins or suggested from contributors to Oppia. When creating questions, ensure that:
 
- * All misconceptions attached to the skill have been addressed in the answer groups,
- * Questions include hints and solutions, and
+ * All misconceptions attached to the skill have been addressed in the answer groups.
+ * Questions include hints and solutions.
+ * Questions are varied and there is no visible pattern among them like the answer always being option 'a', for example.
+ * There are more questions for harder skills.
+ * Questions are as challenging and complex as they need to be if preceded by sufficient explanation.
  * At least one of the answer groups is marked as correct.
+ * Questions are framed with simplicity and brevity—sticking closely with the skill being taught and not getting lost in the story details.
 
 Developing a Story Outline
 ---------------------------
@@ -117,7 +121,7 @@ Usually a topic will have one story that will span across different lessons. At 
 
 Stories are what make Oppia lessons so engaging for learners. You don't have to overdo it with the story details and plot—after all, the concept being taught should be driving the lessons forward. You want just enough of a story arc to keep learners engaged and empathetic with your main character. Like any good story, there should be a challenge for your protagonist (a possible trap or misconception) that they overcome; with the learner also feeling that accomplishment by the end of the lesson.
 
-A good way to approach this step is to think of a practical, real-world setting that best demonstrates the concept being taught.
+A good way to approach this step is to think of a practical, real-world setting that best demonstrates the concept being taught, and that learners will be able to relate to. Following this, create characters that are human as opposed to animal-like to reflect a more realistic setting and ensure that you ground learners in an explanation before moving on to its application.
 
 .. admonition:: Example
 
@@ -131,4 +135,7 @@ Your high-level story outline will include:
 Developing a Chapter Outline
 -----------------------------
 
-Chapter outlines will serve as a guide for lesson creators when :ref:`creating an exploration <create>` for that chapter. The outlines will inform as to what the exploration should contain. 
+Chapter outlines will serve as a guide for lesson creators when :ref:`creating an exploration <create>` for that chapter. The outlines will 
+ * inform as to what the exploration should contain,
+ * ensure that explorations have a unified theme, and
+ * have prerequisite and acquired skills for each lesson clearly described.
