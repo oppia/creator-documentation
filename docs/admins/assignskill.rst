@@ -32,7 +32,7 @@ When you initially create and publish a skill, it falls under the category of **
 .. |savebutton| image:: /images/save_button.png
                 :scale: 40 %
 
-3. To merge a an unused skill with a skill already assigned to a topic, click the **Merge Skill** button next to the skill, and select the skill you want to merge with.
+3. To merge an unused skill with a skill already assigned to a topic, click the **Merge Skill** button next to the skill, and select the skill you want to merge with.
 
 .. figure:: /images/merge_skill.png
    :alt: Merging Skills
@@ -127,7 +127,7 @@ Questions can be created either through the Topic Editor or submitted by contrib
 
 2. Click the **Create Question** button.
 
-3. Select the skill for which you want to create the question and click **Next**.
+3. Select one or more skills for which you want to create the question and click **Next**.
 
 .. figure:: /images/select_skill_question.png
    :alt: Selecting skills for questions
@@ -137,7 +137,9 @@ Questions can be created either through the Topic Editor or submitted by contrib
 
 4. Select the question's level of difficulty—Easy, Medium or Hard—and click **Done**. If there were :ref:`rubrics <rubrics>` written for these levels when the skill was created, you will see them here.
 
-5. The **Question Editor** box opens. This works just like an :ref:`Exploration Editor <createcontent>` where you can create questions, add interactions, responses and feedback. You also have to add a hint in order to publish the question. When you have finished creating the question, click |publishquestion|.
+5. The **Question Editor** box opens. This works just like an :ref:`Exploration Editor <createcontent>` where you can create questions, add interactions, responses and feedback. At least one of the answer groups must be marked as correct. You also have to add a hint in order to publish the question. For some interactions like **Text Input**, you will be required to add a *solution* to the hint, which must correspond with one of the correct answer groups. 
+
+When you have finished creating the question, click |publishquestion|.
 
 .. |publishquestion| image:: /images/publish_question.png
                      :scale: 40 %
