@@ -2,7 +2,7 @@
 
 Translating lessons
 ====================
-Translations help even more learners access Oppia's lessons. When you submit translations, they are sent for review. You can view the status of all your translations in the **My Contribution** page.
+Translations help even more learners access Oppia's lessons, while also giving you a chance to use your language skills to help create opportunity around the world. When you submit translations, they are sent for review. You can view the status of all your translations in the **My Contribution** page.
 
 Watch the video to learn how to contribute translations, or if you prefer reading the instructions instead, keep scrolling down.
 
@@ -46,3 +46,24 @@ Watch the video to learn how to contribute translations, or if you prefer readin
    :scale: 30 %
 
    *Fig. 3*
+
+Guiding Principles
+-------------------
+To ensure your translations have the best chance of being accepted during review, keep these principles in mind:
+
+ * Preserve the voice and meaning of the original text. This doesn't mean you have to translate literally, rather you are aiming for natural language that stays close to the source. A good tip for natural-sounding translations is to imagine explaining the sentence verbally to someone—and render that to written form. 
+ * Ensure that *all* of the meaning in the original text is present in the translation.
+ * Stay consistent with translation choices. 
+
+
+Before you submit your translations, ask yourself:
+
+ * Have I added or subtracted information anywhere?
+ * Are there terms that I am unfamiliar with? If so, have I researched the term and consulted online resources?
+ * Have I been consistent with my translation choices across the lesson?
+ * Have I proof-read and reviewed my translations before submitting?
+
+.. admonition:: Text Corpora Resources
+
+   `Linguee <https://www.linguee.com/>`_
+   `Tradooit <http://www.tradooit.com/>`_ (French, Spanish and English)
