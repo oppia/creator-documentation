@@ -48,6 +48,7 @@ Admins and Topic Managers of Oppia
 
    contributor/contribute
    contributor/translate
+   contributor/voiceover
 
    .. toctree::
    :hidden:
