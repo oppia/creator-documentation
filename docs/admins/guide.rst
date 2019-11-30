@@ -1,3 +1,5 @@
+.. _guide:
+
 Guide to planning a lesson
 ============================
 
@@ -136,6 +138,7 @@ Developing a Chapter Outline
 -----------------------------
 
 Chapter outlines will serve as a guide for lesson creators when :ref:`creating an exploration <create>` for that chapter. The outlines will 
+
  * inform as to what the exploration should contain,
  * ensure that explorations have a unified theme, and
  * have prerequisite and acquired skills for each lesson clearly described.

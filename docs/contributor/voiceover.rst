@@ -10,12 +10,20 @@ In this section, you will learn how to:
  * :ref:`Apply to do a voiceover <voiceoverapplication>`
  * :ref:`Record voiceovers for a lesson <recordvoiceover>`
 
+Don't forget to check out :ref:`these guidelines <guidelines>` for recording a good voiceover.
+
+Watch the video to learn how to contribute voiceovers, or if you prefer reading the instructions instead, keep scrolling down.
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/0LabiUz9hp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 .. _voiceoverapplication:
 
 Applying to do a voiceover
 ----------------------------
 
-If you want to contribute a voiceover to a lesson in Oppia, you will first need to apply to do so by submitting a recording from an exploration card for review. If your recording is approved and accepted, you will gain access to doing the voiceover for the entire lesson. 
+If you want to contribute voiceovers to lessons, you will first need to apply to do so by submitting a recording from an exploration card for review. If your recording is approved and accepted, you will be able to record voiceovers in Oppia. 
 
 1. Click on the menu header **Voiceover** in the Community Dashboard.
 
@@ -25,7 +33,7 @@ If you want to contribute a voiceover to a lesson in Oppia, you will first need 
 
    *Fig. 1*
 
-2. Select the language from the drop-down menu. You will the chapters available for contributing voiceovers in that language.
+2. Select the language from the drop-down menu. You will see the chapters available for contributing voiceovers in that language.
 3. To submit a voiceover application, click the |requestvoiceover| button.
 
 .. |requestvoiceover| image:: /images/request_voiceover.png
@@ -111,14 +119,15 @@ Recording voiceovers
                     :alt: Delete recording
                     :scale: 35 %
 
-When you have finished recording voiceovers for a card, you will notice the card is now a different colour in the **Exploration Overview**. The progress status bar also changes and tells you how many cards are left.
+When you have finished recording voiceovers for a card, you will notice the card is now a different colour in the **Exploration Overview**. The progress status bar also changes and indicates how many cards are left.
 
-6. Finally click |publishchanges| to save all changes. You can always return back to the **Translation** screen from the Contributor Dashboard and continue recording voiceovers for this chapter. You won't be able to submit voiceovers for any other chapter until the currently assigned one is completed.
+6. Finally, click |publishchanges| to save all changes. You can always return back to the **Translation** screen from the Contributor Dashboard and continue recording voiceovers for this chapter. You won't be able to submit voiceovers for any other chapter until the currently assigned one is completed.
 
 .. |publishchanges| image:: /images/publish_changes.png
                     :alt: Publish changes
                     :scale: 45 %
 
+7. Your completed, recorded voiceover will be reviewed by an Oppia reviewer. 
 
 .. important::
 
@@ -142,6 +151,8 @@ When you have finished recording voiceovers for a card, you will notice the card
 
     * Delete the current recording by pressing |trashrecording| and re-record the content.
 
+.. _guidelines:
+
 Guiding Principles
 -------------------
 
@@ -149,7 +160,7 @@ Your interpretation and delivery of the words is the most important factor in re
 
  * Overall, keep your pace slow as the audience for these lessons might not be familiar with the language. With this in mind, don't stick to the *same* pace throughout the lesson. Vary the speed if the content allows for it to keep the lessons interesting. 
  * Engage with the story as you read!
- * If you're reading highly visual content that requires imagination, then remember to take your time to allow the learner to create their own pictures in their head. For example, 'The sound of a glass shattering woke her up. She lay in bed, her heart thudding.' As you read this type of content, try to see the visuals yourself as you are read at a leisurely pace.
+ * If you're reading highly visual content that requires imagination, then remember to take your time to allow the learner to create their own pictures in their head. For example, 'The sound of a glass shattering woke her up. She lay in bed, her heart thudding.' As you read this type of content, try to see the visuals yourself as you read at a leisurely pace.
  * Read while understanding the author's intention. Being a conscious reader will make you a better narrator.
  * Remember you are reading for one. Keep the volume of your voice low—no one likes to be yelled at! However, low volume does not mean low energy.
  * Don't fake it. If you're a male narrating a female character, then don't try to sound like a female and vice-versa. Instead, think of an 'attitude' or trait for the character, e.g., meek, devious or irritable. Pick one trait for each character (of course, this can evolve throughout the lesson) and stick with that to help the listener differentiate between characters.

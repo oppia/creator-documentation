@@ -18,12 +18,13 @@ To begin, we suggest getting  familiar with the :ref:`key terms used in Oppia <k
 --------------------------------------------
 Learn how to create engaging explorations, including how to :ref:`write a good introduction <introduction>`, and :ref:`plan your exploration <createcontent>`.
 
-Contributors to Oppia
-----------------------
-
+:ref:`Contributors to Oppia <contribute>`
+------------------------------------------
+Looking to contribute and add value to Oppia's lessons? Learn how you can :ref:`translate a lesson <translations>` or :ref:`record a voiceover <voiceovers>` among other things, and help make lessons even more accessible!  
 
 Admins and Topic Managers of Oppia
 -----------------------------------
+Learn the :ref:`steps involved in planning a lesson <guide>`, as well as how to :ref:`create a topic <createatopic>` and :ref:`skill <createskill>` in Oppia.
 
 .. toctree::
    :hidden:
@@ -50,7 +51,7 @@ Admins and Topic Managers of Oppia
    contributor/translate
    contributor/voiceover
 
-   .. toctree::
+.. toctree::
    :hidden:
    :maxdepth: 3
    :caption: Topic Managers and Admins

@@ -1,3 +1,5 @@
+.. _createskill:
+
 Creating a new skill
 =====================
 
