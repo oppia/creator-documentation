@@ -7,7 +7,7 @@ Voiceovers help make Oppia's lessons more accessible to non-native speakers. In 
 
 In this section, you will learn how to:
 
- * :ref:`Apply to do a voiceover <voiceoverapplication>`
+ * :ref:`Apply to become a voiceover artist <voiceoverapplication>`
  * :ref:`Record voiceovers for a lesson <recordvoiceover>`
 
 Don't forget to check out :ref:`these guidelines <guidelines>` for recording a good voiceover.
@@ -20,10 +20,10 @@ Watch the video to learn how to contribute voiceovers, or if you prefer reading 
 
 .. _voiceoverapplication:
 
-Applying to do a voiceover
-----------------------------
+Applying to become a voiceover artist
+---------------------------------------
 
-If you want to contribute voiceovers to lessons, you will first need to apply to do so by submitting a recording from an exploration card for review. If your recording is approved and accepted, you will be able to record voiceovers in Oppia. 
+If you want to contribute voiceovers to lessons, you will first need to apply to become a voiceover artist. You can do so by submitting a recording from an exploration card for review. If your recording is approved and accepted, you will be able to record voiceovers in Oppia. 
 
 1. Click on the menu header **Voiceover** in the Community Dashboard.
 
@@ -58,24 +58,26 @@ If you want to contribute voiceovers to lessons, you will first need to apply to
 
    Currently Oppia only supports the MP3 file format for the audio file.
 
-6. Your application has now been sent for review. You will not be able to submit any more voiceovers for this or any other lesson until your review is accepted.
+6. Your application has now been sent for review. You will not be able to submit any more voiceovers for this or any other lesson until your application is accepted.
 
-7. To check the status of the review, go to the **My Contribution** page, and click on Voiceover Applications. Once your application has been accepted, you can proceed with recording a voiceover for the remaining cards in the exploration.
+7. To check the status of the application, go to the **My Contribution** page, and click on Voiceover Applications. Once your application has been accepted, you will have to acknowledge the acceptance by clicking the **Acknowledge** button. 
 
 .. figure:: /images/voiceover_accepted.png
    :alt: Voiceover accepted status
 
    *Fig. 3*
 
+Congratulations! You have been accepted as a voiceover artist in Oppia and can now proceed with recording voiceovers for lessons.
+
 .. _recordvoiceover:
 
 Recording voiceovers
 ----------------------
 
-1. To begin recording a voiceover, click the **Voiceover** button next to your accepted application card in the **My Contribution** page. You will be taken to the **Translation** screen.
+1. To claim an opportunity and begin recording voiceovers, click on the the menu header **Voiceover** and then click the **Claim** button next to the chapter. You will be taken to the **Voiceover** screen of the exploration editor.
 
 .. figure:: /images/record_voiceover.png
-   :alt: Translation page for recording voiceover
+   :alt: Voiceover page for recording voiceover
    :scale: 25 %
 
    *Fig. 4*
@@ -121,7 +123,7 @@ Recording voiceovers
 
 When you have finished recording voiceovers for a card, you will notice the card is now a different colour in the **Exploration Overview**. The progress status bar also changes and indicates how many cards are left.
 
-6. Finally, click |publishchanges| to save all changes. You can always return back to the **Translation** screen from the Contributor Dashboard and continue recording voiceovers for this chapter. You won't be able to submit voiceovers for any other chapter until the currently assigned one is completed.
+6. Finally, click |publishchanges| to save all changes. You can always return back to the **Voiceover** screen from the Contributor Dashboard and continue recording voiceovers for this chapter. You won't be able to submit voiceovers for any other chapter until the currently assigned one is completed.
 
 .. |publishchanges| image:: /images/publish_changes.png
                     :alt: Publish changes
@@ -131,7 +133,7 @@ When you have finished recording voiceovers for a card, you will notice the card
 
 .. important::
 
-   If the lesson creator has edited the content of an exploration *after* you have recorded a voiceover, you will need to record new audio to reflect these changes. Cards that need updating will have an error flag in the **Translation** screen:
+   If the lesson creator has edited the content of an exploration *after* you have recorded a voiceover, you will need to record new audio to reflect these changes. Cards that need updating will have an error flag in the **Voiceover** screen:
 
     .. figure:: /images/audio_update.png
        :alt: Audio needs update message
