@@ -1,3 +1,5 @@
+.. _createatopic:
+
 Creating a new topic
 =====================
 
