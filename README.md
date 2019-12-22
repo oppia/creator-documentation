@@ -18,6 +18,6 @@ From a high-level perspective, the workflow for writing documentation in Sphinx 
 
 ## Contributing
 
-Contributions are welcome from the community! Changes are accepted through pull requests.
+Contributions are welcomed from the community! Changes are accepted through pull requests.
 
 Consult the wiki to learn how you can set things up and contribute to the documentation. 
