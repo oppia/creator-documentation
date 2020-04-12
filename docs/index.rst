@@ -49,6 +49,7 @@ Learn the :ref:`steps involved in planning a lesson <guide>`, as well as how to 
 
    contributor/contribute
    contributor/translate
+   contributor/questions
    contributor/voiceover
 
 .. toctree::
