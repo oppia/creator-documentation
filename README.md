@@ -14,34 +14,39 @@ From a high-level perspective, the workflow for writing documentation in Sphinx 
 2. Build the documentation (HTML output) using Sphinx on the command line.
 3. Push docs to Oppia’s **creator-documentation** repository (or submit a pull request).
 4. Read the Docs automatically builds and updates documentation from the repository.
-##Steps for building html document 
+
+## Steps for building html document 
 
 Setting up:
 
-```bash
-cd docs
-virtualenv .
-source ./bin/activate
-pip install 'sphinx==1.7.9'
-```
-For Windows users:
+You can read the [Sphinx Documentation][docu] for other ways to download sphinx. One way is **conda install sphinx**.
+
+In the terminal run:
 
 ```bash
-cd docs
-virtualenv .
-activate
 conda install sphinx
 ```
-You can read the [Sphinx Documentation][docu] for other ways to download sphinx. Here **conda install sphinx** is used.
-
-
-Building the docs using **make**:
+Then run:
 
 ```bash
-# In the docs directory
-make html
+#In the creator-documentation directory
+sphinx-build -b html docs docs\_build
 ```
+Here, docs is the `sourcedir` and docs/_build is the `builddir` where all the html files will appear.
 
+If you get:
+ ```bash
+ ModuleNotFoundError: No module named 'sphinx_rtd_theme'
+ ```
+Then simply run in the terminal:
+```bash
+pip install sphinx-rtd-theme
+```
+Re-run the command **sphinx-build -b html docs docs\_build**.
+This will be the last message:
+```bash
+The HTML pages are in docs\_build.
+```
 
 ## Contributing
 
