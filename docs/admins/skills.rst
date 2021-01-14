@@ -30,7 +30,7 @@ Creating a new skill
 
 .. admonition:: Rubrics
 
-   Rubrics help question creators when they create questions for the skill. You can enter rubrics for each difficulty level of the skill (Easy, Medium, Hard) which are then shown to question creators so they know what the question should test. For example, in the image below, if a question creator chooses to create an *easy* question for this new skill, this rubric will be shown as a guide to creating the question:
+   Rubrics help question creators when they create questions for the skill. You can enter rubrics for each difficulty level of the skill (Easy, Medium or Hard) which are then shown to question creators so they know what the question should test. For example, in the image below, if a question creator chooses to create an *easy* question for this new skill, this rubric will be shown as a guide to creating the question:
 
    .. figure:: /images/new_skill.png
       :alt: Create new skill
