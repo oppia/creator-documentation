@@ -21,13 +21,34 @@ Watch the video to learn how to contribute translations, or if you prefer readin
 
    *Fig. 1*
 
-4. To begin translating, click the **Translate** button next to a chapter and begin typing in the text box.
+4. To begin translating, click the **Translate** button next to a chapter. A pop-up window appears with the content to be translated shown on top. Type in the translations in the text box at the bottom.
 
-.. figure:: /images/translation_card.png
+.. figure:: /images/translation_popupcard.png
    :alt: Translation card
-   :scale: 35 %
+   :scale: 55 %
 
    *Fig. 2*
+
+.. admonition:: Using the Copy Tool
+
+   To copy over non-text items like images, click the **Copy Tool** button On. The content to be translated is now split into different outlined sections, and the mouse icon shows a green plus sign as shown in the image above. 
+
+    * Click on the section you want to copy over. For example, to copy an image, click the image.
+    * The **Customize This Component** window opens. Translate any text in this window if needed. Click **Done** to return back to the translation card.
+
+    .. figure:: /images/customize_component.png
+       :alt: Customize this component card
+       :scale: 55 %
+
+       *Fig. 3*
+
+    * The item is now copied over in the translated section.
+
+    .. figure:: /images/copied_over.png
+       :alt: Completed translation card
+       :scale: 55 %
+
+       *Fig. 4*
 
 5. To move on to the next card and save the current card's translation, click |saveandtranslate|.
 
@@ -45,7 +66,7 @@ Watch the video to learn how to contribute translations, or if you prefer readin
    :alt: Translation status
    :scale: 30 %
 
-   *Fig. 3*
+   *Fig. 5*
 
 Guiding Principles
 -------------------
