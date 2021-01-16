@@ -43,7 +43,6 @@ Watch the video to learn how to contribute translations, or if you prefer readin
        *Fig. 3*
 
     * The item is now copied over in the translated section.
-    * If you click on a *text* component with the Copy Tool, the text is simply copied over without any customization.
 
     .. figure:: /images/copied_over.png
        :alt: Completed translation card
