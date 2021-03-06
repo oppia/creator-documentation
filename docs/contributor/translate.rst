@@ -84,6 +84,8 @@ Before you submit your translations, ask yourself:
  * Have I been consistent with my translation choices across the lesson?
  * Have I proof-read and reviewed my translations before submitting?
 
+Note: When translating something, if you see broken images, do not submit it. Please try to gather logs from the dev console and share it with us.
+
 .. admonition:: Text Corpora Resources
 
    `Linguee <https://www.linguee.com/>`_

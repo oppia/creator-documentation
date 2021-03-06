@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Oppia'
-copyright = u'2019, Oppia'
+copyright = u'2021, Oppia'
 author = u'Audrey Tavares'
 
 # The short X.Y version
