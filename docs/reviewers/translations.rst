@@ -23,7 +23,7 @@ To start reviewing the translations:
 
    *Fig. 2*
 
-3. The left side text-box contains the original text in English and the right side text-box contains the translated text. Check if the translation is gramatically correct and conveys the same meaning as the original text. Please follow these guidelines.
+3. The left side text-box contains the original text in English and the right side text-box contains the translated text. Check if the translation is gramatically correct and conveys the same meaning as the original text. Please follow :ref:`the guidelines <reviewguidelines>`.
 4. If you do not want to review, click on the |closebtn| button to close the modal.
 5. If the translation is correct, click on |acceptandreviewnextbtn| button approve it and review the next translation. Adding a review message is not mandatory for while accepting a translation.
 6. If the translation is not correct, type a review message in the text-box with the label 'Review message' explaining the reason for rejection, possible improvements and suggestions. This message would be visible to the translator. Note that you cannot reject a translation without a review message.  Click on the |rejectandreviewnextbtn| button to continue reviewing other translations.
@@ -51,7 +51,9 @@ To start reviewing the translations:
 .. |rejectandreviewnextbtn| image:: /images/reject-and-review-next-button.png
                       :alt: Reject and Review Next Button
                       :scale: 70%
-                    
+
+.. _reviewguidelines:    
+                
 Guiding Principles
 -------------------
 To ensure that translations convey the same meaning with same persuasiveness and simplicity as the original text, please keep these principles in mind:

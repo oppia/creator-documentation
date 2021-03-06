@@ -28,7 +28,7 @@ Learn the :ref:`steps involved in planning a lesson <guide>`, as well as how to 
 
 Reviewers of Oppia
 -----------------------------------
-Learn the :ref:`steps involved in planning a lesson <review>`, as well as how to :ref:`create a topic <createatopic>` and :ref:`skill <reviewatranslation>` in Oppia.
+Learn the procedure to :ref:`review translations <reviewatranslation>`, :ref:`voiceover <reviewavoiceover>` and :ref:`questions <reviewaquestion>` in Oppia.
 
 .. toctree::
    :hidden:
