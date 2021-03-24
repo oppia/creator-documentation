@@ -26,6 +26,10 @@ Admins and Topic Managers of Oppia
 -----------------------------------
 Learn the :ref:`steps involved in planning a lesson <guide>`, as well as how to :ref:`create a topic <createatopic>` and :ref:`skill <createskill>` in Oppia.
 
+Reviewers of Oppia
+-----------------------------------
+Learn the procedure to :ref:`review translations <reviewatranslation>`, :ref:`voiceovers <reviewavoiceover>` and :ref:`questions <reviewaquestion>` in Oppia.
+
 .. toctree::
    :hidden:
    :maxdepth: 2
@@ -61,3 +65,13 @@ Learn the :ref:`steps involved in planning a lesson <guide>`, as well as how to 
    admins/skills
    admins/topic
    admins/assignskill
+
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+   :caption: Reviewers
+
+   reviewers/review
+   reviewers/translations
+   reviewers/voiceovers
+   reviewers/questions
