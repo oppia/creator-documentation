@@ -56,7 +56,7 @@ To start reviewing the translations:
                 
 Guiding Principles
 -------------------
-To ensure that translations convey the same meaning with the same persuasiveness and simplicity as the original text, please keep these principles in mind:
+To ensure that translations convey the same meaning as the original text, please keep these principles in mind:
  
  * Ensure that the the voice and meaning of the original text is preserved. It doesn't mean you have to accept only literal translations. If the language is natural, understandable and stays close to the source, the translation is worth accepting.
  * Ensure that *all* of the meaning in the original text is present in the translation.
