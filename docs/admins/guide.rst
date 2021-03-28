@@ -3,7 +3,7 @@
 Guide to planning a lesson
 ============================
 
-This section will discuss an approach to creating engaging and effective lessons in Oppia. Whether students come to Oppia to reinforce what they learn in school, fill the gaps in their understanding, or learn something completely new—the goal for lesson creators is to consistently provide high quality lessons. Everything done within Oppia is with this goal in mind.
+This section will discuss an approach to creating engaging and effective lessons in Oppia. Whether students come to Oppia to reinforce what they learn in school, to fill the gaps in their understanding, or to learn something completely new—the goal for lesson creators is to consistently provide high quality lessons. Everything done within Oppia is with this goal in mind.
 
 Before reading on, make sure you are familiar with the :ref:`key terms used in Oppia <keyconcepts>` and the relationship between them.
 
@@ -16,7 +16,7 @@ From a high-level perspective, the process of lesson creation looks like this:
    *Lesson Creation Process*
 
 
-This page will elaborate on some of the steps in this process namely:
+This page will elaborate on some of the steps in this process, namely:
 
  * Creating a Skill Tree
  * Creating Questions for Skills
@@ -99,7 +99,7 @@ A **Skill Tree** essentially means identifying and describing the :ref:`skills <
        * Given a decimal number, state the place value of each digit.
        * Given a decimal with hundredths place value, round it to the nearest tenths.
    
-   4. **Prerequisite skills.** Specify prerequisite skills that a learner would need to have that may not be part of the topic scope. The prerequisites should also include specific skills from previous lessons in the series. These will be used to generate random review questions at the start of each lesson to determine whether the student has indeed mastered the skills they need for the present topic. 
+   4. **Prerequisite skills.** Specify prerequisite skills that a learner would need to have that may not be part of the topic's scope. The prerequisites should also include specific skills from previous lessons in the series. These will be used to generate random review questions at the start of each lesson to determine whether the student has indeed mastered the skills they need for the present topic. 
 
    5. **Acquired skills.** List all the skills that learners will acquire by the end of the lesson.
 
@@ -137,8 +137,8 @@ Your high-level story outline will include:
 Developing a Chapter Outline
 -----------------------------
 
-Chapter outlines will serve as a guide for lesson creators when :ref:`creating an exploration <create>` for that chapter. The outlines will 
+Chapter outlines will serve as a guide for lesson creators when :ref:`creating an exploration <create>` for that chapter. The outlines will:
 
- * inform as to what the exploration should contain,
- * ensure that explorations have a unified theme, and
- * have prerequisite and acquired skills for each lesson clearly described.
+ * Inform as to what the exploration should contain
+ * Ensure that explorations have a unified theme
+ * Have prerequisites and acquired skills for each lesson clearly described
