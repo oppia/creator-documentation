@@ -79,7 +79,7 @@ Writing content
 
 3. When you’re finished, select **Save Content**.
 
-.. _add_interaction_ref:
+.. _add_interaction_to_lesson_ref:
 
 Add an Interaction
 ==================

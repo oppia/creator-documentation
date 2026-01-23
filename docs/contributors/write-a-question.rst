@@ -54,7 +54,7 @@ Write the Question
 ~~~~~~~~~~~~~~~~~~
 In the text field, write your question. Use a conversational tone and personal pronouns (e.g., "you", "your"). When finished, select **Save Question**.
 
-.. _add_interaction_ref:
+.. _add_interaction_to_question_ref:
 
 Add an Interaction
 ~~~~~~~~~~~~~~~~~~
