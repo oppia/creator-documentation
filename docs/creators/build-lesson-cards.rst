@@ -1,7 +1,5 @@
 .. _build_lesson_cards_ref:
 
-.. _build_lesson_cards_ref:
-
 ==================
 Build lesson cards
 ==================
@@ -228,7 +226,7 @@ the **Editor** screen. It’s grouped together with the **Learners Answers
 and Oppia’s Responses** and **Interaction** panel.
 
 When a hint appears
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
 To ensure hints are used meaningfully, a hint can be requested only if
 one of the following conditions is satisfied:
@@ -237,7 +235,7 @@ one of the following conditions is satisfied:
 -  30 seconds have passed since the learner last submitted an answer.
 
 How to add a hint
-~~~~~~~~~~~~~~~~~
+-----------------
 
 1. Select **+Add Hint** at the bottom of the **Editor** screen.
 2. In the **Add Hint** panel, type out the hint

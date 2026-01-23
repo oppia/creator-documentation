@@ -7,8 +7,8 @@ Oppia Curriculum Team Documentation
 Oppia Basics
 ------------
 
-* :doc:`/introduction`
-* :doc:`/key-terms`
+* :doc:`/index`
+* :doc:`/start/terms`
 
 For Lesson Creators
 -------------------
@@ -148,7 +148,7 @@ educational content.
    :caption: Contributors
 
    /contributors/translate-a-lesson
-   /contributors/write-question-contributor
+   /contributors/write-a-question
 
 .. toctree::
    :maxdepth: 2

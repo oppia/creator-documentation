@@ -3,7 +3,7 @@
 Create a Skill Tree
 ===================
 
-A **Skill Tree** is the foundational blueprint for any Oppia Topic. It outlines every granular ability a learner must master. To understand how this fits into the broader ecosystem, review the :ref:`Key Terms <key_terms_ref>` and their relationships.
+A **Skill Tree** is the foundational blueprint for any Oppia Topic. It outlines every granular ability a learner must master. To understand how this fits into the broader ecosystem, review the :ref:`Key Terms <terms_ref>` and their relationships.
 
 **In this article, you will learn how to:**
 

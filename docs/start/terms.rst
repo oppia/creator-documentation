@@ -1,4 +1,4 @@
-.. _terms:
+.. _terms_ref:
 
 Key Terms used in Oppia
 =======================
