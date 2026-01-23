@@ -20,6 +20,7 @@ For Lesson Creators
 * :doc:`/creators/build-lesson-cards`
 * :doc:`/creators/end-an-exploration`
 * :doc:`/creators/publish-and-save-a-lesson`
+
 ..
   * :doc:`/creators/lesson-design-tools`
   * :doc:`/creators/outline-a-story`
@@ -33,7 +34,7 @@ For Contributors
 ----------------
 
 * :doc:`/contributors/translate-a-lesson`
-* :doc:`/contributors/write-a-question
+* :doc:`/contributors/write-a-question`
 
 Topic Managers and Admins
 -------------------------
@@ -124,13 +125,15 @@ educational content.
    :hidden:
    :caption: Lesson Creators
 
-   /lesson/create-effective-lesson-content
-   /lesson/plan-lesson-content
-   /lesson/create-an-introduction-card
-   /lesson/create-a-new-card
-   /lesson/build-lesson-cards
-   /lesson/end-an-exploration
-   /lesson/publish-and-save-a-lesson
+   /creators/create-effective-lesson-content
+   /creators/plan-lesson-content
+   /creators/create-an-introduction-card
+   /creators/create-a-new-card
+   /creators/build-lesson-cards
+   /creators/end-an-exploration
+   /creators/publish-and-save-a-lesson
+
+..
    /lesson/lesson-design-tools
    /lesson/outline-a-story
    /lesson/lesson-setup
@@ -144,8 +147,8 @@ educational content.
    :hidden:
    :caption: Contributors
 
-   /contributor/translate-a-lesson
-   /contributor/write-question-contributor
+   /contributors/translate-a-lesson
+   /contributors/write-question-contributor
 
 .. toctree::
    :maxdepth: 2

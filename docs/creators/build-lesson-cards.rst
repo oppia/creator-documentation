@@ -97,7 +97,7 @@ with the learner through a question or prompting an action.
    request and may implement it.
 
 Think of a question you want the learner to answer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------
 
 What question you choose will affect what interactions are available to
 best ask it to each learner.
@@ -183,7 +183,7 @@ To set up a correct answer:
 6. Select **Save and Add Another**.
 
 Add incorrect answers and responses
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------
 
 For each incorrect response:
 
