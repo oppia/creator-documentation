@@ -1,160 +1,77 @@
-Oppia Curriculum Team Documentation
-===================================
+Oppia User Guide
+============================================
 
 .. meta::
-   :description lang=en: A comprehensive user guide for the Oppia Curriculum team on how to use the Oppia platform
-
-Oppia Basics
-------------
-
-* :doc:`/introduction`
-* :doc:`/key-terms`
-
-For Lesson Creators
--------------------
-
-* :doc:`/creators/create-effective-lesson-content`
-* :doc:`/creators/plan-lesson-content`
-* :doc:`/creators/create-an-introduction-card`
-* :doc:`/creators/create-a-new-card`
-* :doc:`/creators/build-lesson-cards`
-* :doc:`/creators/end-an-exploration`
-* :doc:`/creators/publish-and-save-a-lesson`
-* :doc:`/creators/lesson-design-tools`
-* :doc:`/creators/outline-a-story`
-* :doc:`/creators/lesson-setup`
-* :doc:`/creators/advanced-lesson-settings`
-* :doc:`/creators/add-skills-to-lesson`
-* :doc:`/creators/edit-a-lesson`
-* :doc:`/creators/improve-a-lesson`
-
-For Contributors
-----------------
-
-* :doc:`/contributors/translate-a-lesson`
-* :doc:`/contributors/write-question-contributor`
-
-Topic Managers and Admins
--------------------------
-
-* :doc:`/admins/create-new-skill`
-* :doc:`/admins/create-topic-story-chapter`
-* :doc:`/admins/build-skills-for-topic`
-* :doc:`/admins/create-skill-tree`
-* :doc:`/admins/add-skill-to-lesson`
-* :doc:`/admins/merge-a-skill`
-* :doc:`/admins/write-question-skill`
+   :description lang=en: A comprehensive user guide for using the Oppia platform
 
 
-Introduction
-============
+Oppia is an open source learning platform with the goal of providing engaging content to learners. Anyone can create and share interactive lessons (explorations) with the aim of recreating a one-on-one tutoring scenario.    
 
-Welcome to Oppia!
+This interactivity is what makes Oppia unique. Many of the educational tools on the Internet provide a unidirectional flow of information which makes it hard to create engaging, feedback-rich experiences for learners. However, Oppia comes with several built-in interactions and responses that make it possible to personalize feedback to a learner's answer. Over time, explorations can be improved as more learners engage with the content. 
 
-Oppia is an open-source learning platform that helps anyone create and
-share engaging, interactive lessons for young learners — typically age
-7-14. So far, we’ve helped over 2.5 million people learn new skills and
-master foundational subjects. These lessons guide learners through
-questions, answers, and feedback that adapt to each learner’s needs.
+Oppia's mission is to provide high-quality, accessible learning experiences to everyone around the world.
 
-Why Oppia?
-==========
+To begin, we suggest getting  familiar with the :ref:`key terms used in Oppia <keyconcepts>` first.
 
-At Oppia, we believe that the best way to learn is by doing. Real
-learning happens through practice, feedback, and reflection. Oppia is
-designed to support that process and bring it to those who don’t have
-access to personal instruction or quality education.
 
-Oppia helps educators, contributors, and learners create and access
-high-quality lessons that are:
+:ref:`Lesson Creators - start here <create>`
+--------------------------------------------
+Learn how to create engaging explorations, including how to :ref:`write a good introduction <introduction>`, and :ref:`plan your exploration <createcontent>`.
 
-* **Interactive**. Lessons adapt to what the learner does.
-* **Feedback-rich**. Learners receive immediate, helpful feedback.
-* **Continuously improving**. Lessons get better over time as more
-  learners use them and educators refine their content.
-* **Designed for all learners.** Oppia content is translated into
-  multiple languages with more on the way.
-* **Free, always**. Anyone can use, share, or contribute to lessons on
-  `Oppia.org <https://www.oppia.org/>`__.
+:ref:`Contributors to Oppia <contribute>`
+------------------------------------------
+Looking to contribute and add value to Oppia's lessons? Learn how you can :ref:`translate a lesson <translations>` or :ref:`record a voiceover <voiceovers>` among other things, and help make lessons even more accessible!  
 
-**All content is Creative Commons licensed, meaning it’s open for anyone
-to embed, reuse, or build upon.**
+Admins and Topic Managers of Oppia
+-----------------------------------
+Learn the :ref:`steps involved in planning a lesson <guide>`, as well as how to :ref:`create a topic <createatopic>` and :ref:`skill <createskill>` in Oppia.
 
-Who should use this guide?
-==========================
-
-Oppia supports a global community of learners and educators. This
-documentation is for:
-
-Lesson Creators
----------------
-
-Get started with step-by-step guidance on planning, designing, and
-building your first lesson. Learn how to structure lessons, ask good
-questions, and give effective feedback.
-
-Contributors
-------------
-
-Want to help improve Oppia? Learn how to translate lessons, add voice
-overs, or suggest questions and edits. Your contributions make learning
-more accessible for everyone.
-
-Curriculum Admins and Topic Managers
-------------------------------------
-
-Understand how to organize content at a higher level — creating topics,
-skill trees, stories, and assigning lessons to subtopics. This guide
-walks you through the admin tools you’ll need to manage Oppia’s
-educational content.
-
-.. Hidden Toctrees for Sidebar Navigation
-.. --------------------------------------
+Reviewers of Oppia
+-----------------------------------
+Learn the procedure to :ref:`review translations <reviewatranslation>`, :ref:`voiceovers <reviewavoiceover>` and :ref:`questions <reviewaquestion>` in Oppia.
 
 .. toctree::
-   :maxdepth: 2
    :hidden:
-   :caption: Oppia Basics
+   :maxdepth: 2
 
-   /start/terms
+   keyconcepts
 
 .. toctree::
-   :maxdepth: 2
    :hidden:
+   :maxdepth: 3
    :caption: Lesson Creators
-
-   /lesson/create-effective-lesson-content
-   /lesson/plan-lesson-content
-   /lesson/create-an-introduction-card
-   /lesson/create-a-new-card
-   /lesson/build-lesson-cards
-   /lesson/end-an-exploration
-   /lesson/publish-and-save-a-lesson
-   /lesson/lesson-design-tools
-   /lesson/outline-a-story
-   /lesson/lesson-setup
-   /lesson/advanced-lesson-settings
-   /lesson/add-skills-to-lesson
-   /lesson/edit-a-lesson
-   /lesson/improve-a-lesson
+   
+   lesson/create
+   lesson/edit
+   lesson/improvements
+   lesson/settings
 
 .. toctree::
-   :maxdepth: 2
    :hidden:
+   :maxdepth: 3
    :caption: Contributors
 
-   /contributor/translate-a-lesson
-   /contributor/write-question-contributor
+   contributor/contribute
+   contributor/translate
+   contributor/questions
+   contributor/voiceover
 
 .. toctree::
-   :maxdepth: 2
    :hidden:
-   :caption: Topic Managers & Curriculum Admins
+   :maxdepth: 3
+   :caption: Topic Managers and Admins
 
-   /admins/create-new-skill
-   /admins/create-topic-story-chapter
-   /admins/build-skills-for-topic
-   /admins/create-skill-tree
-   /admins/add-skill-to-lesson
-   /admins/merge-a-skill
-   /admins/write-question-skill
+   admins/guide
+   admins/skills
+   admins/topic
+   admins/assignskill
+
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+   :caption: Reviewers
+
+   reviewers/review
+   reviewers/translations
+   reviewers/voiceovers
+   reviewers/questions
