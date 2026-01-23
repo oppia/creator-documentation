@@ -21,12 +21,12 @@
 
 project = u'Oppia'
 copyright = u'2021, Oppia'
-author = u'Audrey Tavares'
+author = u'Oppia UX Writing Team'
 
 # The short X.Y version
-version = u'0.1'
+version = u'0.2'
 # The full version, including alpha/beta/rc tags
-release = u'0.1.0'
+release = u'0.2.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -77,6 +77,9 @@ pygments_style = None
 #
 import sphinx_rtd_theme
 
+extensions = [
+    "sphinx_rtd_theme",
+]
 html_theme = 'sphinx_rtd_theme'
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
