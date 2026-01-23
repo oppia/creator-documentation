@@ -118,7 +118,7 @@ An interaction is the answer learners provide in response to a question
 depends on the lesson being taught. For example, a math lesson has
 interactions that are different from a programming lesson.
 
-.. figure:: Key%20terms/Explorations.png
+.. figure:: /images/Explorations.png
    :alt: Exploration hierarchy in Oppia
    :align: center
 
