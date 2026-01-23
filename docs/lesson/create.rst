@@ -25,19 +25,20 @@ Create a new exploration
 
 1. To create a new exploration, from the Creator dashboard, click the **Create** button in the top right corner.
 
-.. figure:: /images/create.png
-   :alt: Creating a new exploration
+   .. figure:: /images/create.png
+      :alt: Creating a new exploration
 
-   *Fig. 1*
+      *Fig. 1*
 
 2. You will see the Exploration Editor page. Now you will have to:
- * give your exploration a title
- * write the introduction 
 
-.. figure:: /images/exploration_editor.png
-  :alt: Exploration editor screen
+   * give your exploration a title
+   * write the introduction
 
-  *Fig. 2*
+   .. figure:: /images/exploration_editor.png
+     :alt: Exploration editor screen
+
+     *Fig. 2*
 
 3. To create a title for your exploration, click '**Untitled Exploration**' in the top left corner. This will take you to the **Settings** page. In the first field **Title**, type in a descriptive title for your exploration. We'll look at the other fields on this page in another section.
 

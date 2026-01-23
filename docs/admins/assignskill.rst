@@ -135,7 +135,7 @@ Questions can be created either through the Topic Editor or submitted by contrib
 
    *Fig. 6*
 
-4. Select the question's level of difficulty—Easy, Medium or Hard—and click **Done**. If there were :ref:`rubrics <rubrics>` written for these levels when the skill was created, you will see them here.
+4. Select the question's level of difficulty—Easy, Medium or Hard—and click **Done**. If there were rubrics written for these levels when the skill was created, you will see them here.
 
 5. The **Question Editor** box opens. This works just like an :ref:`Exploration Editor <createcontent>` where you can create questions, add interactions, responses and feedback. At least one of the answer groups must be marked as correct. You also have to add a hint in order to publish the question. For some interactions like **Text Input**, you will be required to add a *solution* to the hint, which must correspond with one of the correct answer groups. 
 
