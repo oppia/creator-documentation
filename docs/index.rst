@@ -20,15 +20,13 @@ For Lesson Creators
 * :doc:`/creators/build-lesson-cards`
 * :doc:`/creators/end-an-exploration`
 * :doc:`/creators/publish-and-save-a-lesson`
-
-..
-  * :doc:`/creators/lesson-design-tools`
-  * :doc:`/creators/outline-a-story`
-  * :doc:`/creators/lesson-setup`
-  * :doc:`/creators/advanced-lesson-settings`
-  * :doc:`/creators/add-skills-to-lesson`
-  * :doc:`/creators/edit-a-lesson`
-  * :doc:`/creators/improve-a-lesson`
+* :doc:`/creators/lesson-design-tools`
+* :doc:`/creators/outline-a-story`
+* :doc:`/creators/lesson-setup`
+* :doc:`/creators/advanced-lesson-settings`
+* :doc:`/creators/add-skills-to-lesson`
+* :doc:`/creators/edit-a-lesson`
+* :doc:`/creators/improve-a-lesson`
 
 For Contributors
 ----------------
