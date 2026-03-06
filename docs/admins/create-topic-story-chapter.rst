@@ -86,7 +86,7 @@ Import an Exploration
 When you create a chapter, you will need to complete the following:
 
 * **Chapter Outline:** Enter a description of what the lesson will entail to guide Exploration creators.
-* **Exploration ID:** Import a published Exploration by :ref:`entering its ID <edit_lesson_ref>`. You cannot publish the Story without this step.
+* **Exploration ID:** Import a published Exploration by :ref:`entering its ID <_edit_a_lesson_ref>`. You cannot publish the Story without this step.
 * **Prerequisite Skill IDs:** Select Prerequisite Skills based on those identified in the :ref:`Skill Tree <create_skill_tree_ref>` by selecting **Add prerequisite skill**.
 * **Acquired Skill IDs:** Select acquired skills for this lesson based on those identified in the :ref:`Skill Tree <create_skill_tree_ref>` by selecting **Add acquired skill**.
 

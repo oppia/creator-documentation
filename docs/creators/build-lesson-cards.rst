@@ -7,7 +7,7 @@ Build lesson cards
 In this article, you will learn how to:
 
 * :ref:`create_lesson_card_ref`
-* :ref:`add_interaction_ref`
+* :ref:`add_interaction_to_lesson_ref`
 * :ref:`add_responses_ref`
 * :ref:`add_hints_ref`
 

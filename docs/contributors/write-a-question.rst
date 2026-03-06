@@ -9,7 +9,7 @@ Practice questions help learners review and master the skills they learn in each
 
 * :ref:`Choose a skill and difficulty <choose_difficulty_ref>`
 * :ref:`Write and suggest a question <suggest_question_ref>`
-* :ref:`Add interactions and responses <add_interaction_ref>`
+* :ref:`Add interactions and responses <add_interaction_to_question_ref>`
 * :ref:`Add hints and misconceptions <add_hint_ref>`
 * :ref:`Tips for effective questions <effective_question_tips_ref>`
 

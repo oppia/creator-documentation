@@ -35,7 +35,7 @@ Your lesson path consists of a series of supporting questions and answers that s
 
 
 
-While you will always have a "Main Path," Oppia's :ref:`lesson design tools <lesson_design_tools_ref>` allow you to create a dynamic experience:
+While you will always have a "Main Path," Oppia's :ref:`lesson design tools <_lesson_design_tools_ref>` allow you to create a dynamic experience:
 
 * **Lesson Branches:** Divert learners to extra help if they get a specific answer wrong.
 * **Loops:** Send learners back to a previous question if they need a refresher.
@@ -54,4 +54,4 @@ Storytelling helps learners apply abstract concepts to real-world situations. In
 * **Storytelling Approach:** "Mike’s friend Linda asks him how many toys they have together if Mike has 5 toys and Linda has 2?"
 
 
-You can also create a cohesive narrative across multiple explorations by using :ref:`stories and chapters <outline_story_ref>`. This keeps learners coming back to find out what happens next to the characters they've met.
+You can also create a cohesive narrative across multiple explorations by using :ref:`stories and chapters <_outline_a_story_ref>`. This keeps learners coming back to find out what happens next to the characters they've met.
