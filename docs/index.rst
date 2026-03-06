@@ -15,18 +15,18 @@ For Lesson Creators
 
 * :doc:`/creators/create-effective-lesson-content`
 * :doc:`/creators/plan-lesson-content`
+* :doc:`/creators/lesson-setup`
 * :doc:`/creators/create-an-introduction-card`
 * :doc:`/creators/create-a-new-card`
 * :doc:`/creators/build-lesson-cards`
+* :doc:`/creators/edit-a-lesson`
 * :doc:`/creators/end-an-exploration`
 * :doc:`/creators/publish-and-save-a-lesson`
-* :doc:`/creators/lesson-design-tools`
-* :doc:`/creators/outline-a-story`
-* :doc:`/creators/lesson-setup`
 * :doc:`/creators/advanced-lesson-settings`
 * :doc:`/creators/add-skills-to-lesson`
-* :doc:`/creators/edit-a-lesson`
+* :doc:`/creators/lesson-design-tools`
 * :doc:`/creators/improve-a-lesson`
+* :doc:`/creators/outline-a-story`
 
 For Contributors
 ----------------
@@ -125,20 +125,18 @@ educational content.
 
    /creators/create-effective-lesson-content
    /creators/plan-lesson-content
+   /creators/lesson-setup
    /creators/create-an-introduction-card
    /creators/create-a-new-card
    /creators/build-lesson-cards
+   /creators/edit-a-lesson
    /creators/end-an-exploration
    /creators/publish-and-save-a-lesson
-
-..
-   /lesson/lesson-design-tools
-   /lesson/outline-a-story
-   /lesson/lesson-setup
-   /lesson/advanced-lesson-settings
-   /lesson/add-skills-to-lesson
-   /lesson/edit-a-lesson
-   /lesson/improve-a-lesson
+   /creators/advanced-lesson-settings
+   /creators/add-skills-to-lesson
+   /creators/lesson-design-tools
+   /creators/improve-a-lesson
+   /creators/outline-a-story
 
 .. toctree::
    :maxdepth: 2
