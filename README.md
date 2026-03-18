@@ -10,14 +10,13 @@ _Sphinx_ is a documentation generator and Sphinx documents are written in  a mar
 
 From a high-level perspective, the workflow for writing documentation in Sphinx looks like this:
 
-1. Write the documentation in plain text files using reST.
-2. Build the documentation (HTML output) using Sphinx on the command line.
-3. Push docs to Oppia’s **creator-documentation** repository (or submit a pull request).
-4. Read the Docs automatically builds and updates documentation from the repository.
-
+1. Write documentation in plain text files using reST.
+2. Build the documentation (HTML output) using Sphinx.
+3. Push your changes to the repository.
+4. Read the Docs will automatically build and update the documentation.
 
 ## Contributing
 
 Contributions are welcome from the community! Changes are accepted through pull requests.
 
-Consult the wiki to learn how you can set things up and contribute to the documentation. 
+Consult the wiki to learn how to set up your environment and contribute to the documentation.
