@@ -14,8 +14,8 @@ In this article, you’ll learn how to:
 Add an End Exploration interaction
 ==================================
 
-Another common warning message says “you haven’t properly ended your
-exploration.”
+You should add an End Exploration interaction to complete the last card of your
+lesson.
 
 1. To add an ending to the exploration, select the last card of your
    exploration.
@@ -32,9 +32,8 @@ exploration.”
 Recommend an exploration
 ========================
 
-When ending your exploration you can also recommend up to
-three explorations for the learner to try next. When customizing your
-End Exploration interaction:
+When ending your exploration, you can also recommend up to three explorations
+for the learner to try next. When customizing your End Exploration interaction:
 
 1. Select **Add Exploration ID**
 2. Enter the ID of each recommended exploration

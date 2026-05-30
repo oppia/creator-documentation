@@ -20,9 +20,9 @@ Lesson Content Basics
 
 Lessons in Oppia are called **Explorations**. These simulate a conversation between a lesson creator and a learner and are presented as a series of **cards**.
 
-Each card consists of:
-* **Content:** Information or a question shown to the learner.
-* **Interaction:** How the learner responds (e.g., multiple choice, text input).
+Each of these cards consists of three parts:
+* **Content:** The information or a question which the learner sees.
+* **Interaction:** How the learner responds (for example, multiple choice or text input).
 * **Feedback:** A constructive response based on the learner's specific answer.
 
 

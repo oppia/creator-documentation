@@ -20,11 +20,14 @@ Write Meaningful Questions
 
 When creating questions, keep the following pedagogical standards in mind:
 
-* **Address Misconceptions:** Ensure all misconceptions attached to the skill have been addressed in the answer groups.
+* **Address Misconceptions:** Ensure all misconceptions attached to the skill
+  are addressed in the answer groups.
 * **Include Support:** Questions must include hints and, in many cases, solutions.
-* **Avoid Patterns:** Ensure questions are varied so there is no predictable pattern (e.g., the answer is always option "A").
+* **Avoid Patterns:** Ensure questions are varied so there is no predictable
+  pattern (e.g., the answer is always option "A").
 * **Difficulty Balance:** Provide a higher volume of questions for harder Skills.
-* **Clarity:** Frame questions with simplicity and brevity, sticking closely to the specific Skill being taught.
+* **Clarity:** Frame questions simply and briefly, staying close to the specific
+  Skill being taught.
 * **Validation:** At least one answer must be marked as correct.
 
 ---

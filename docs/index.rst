@@ -18,10 +18,10 @@ For Lesson Creators
 * :doc:`/creators/lesson-setup`
 * :doc:`/creators/create-an-introduction-card`
 * :doc:`/creators/create-a-new-card`
-* :doc:`/creators/build-lesson-cards`
+* :doc:`/creators/create-a-lesson-card`
 * :doc:`/creators/edit-a-lesson`
 * :doc:`/creators/end-an-exploration`
-* :doc:`/creators/publish-and-save-a-lesson`
+* :doc:`/creators/save-and-publish-a-lesson`
 * :doc:`/creators/advanced-lesson-settings`
 * :doc:`/creators/add-skills-to-lesson`
 * :doc:`/creators/lesson-design-tools`
@@ -128,10 +128,10 @@ educational content.
    /creators/lesson-setup
    /creators/create-an-introduction-card
    /creators/create-a-new-card
-   /creators/build-lesson-cards
+   /creators/create-a-lesson-card
    /creators/edit-a-lesson
    /creators/end-an-exploration
-   /creators/publish-and-save-a-lesson
+   /creators/save-and-publish-a-lesson
    /creators/advanced-lesson-settings
    /creators/add-skills-to-lesson
    /creators/lesson-design-tools

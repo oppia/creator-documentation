@@ -1,9 +1,11 @@
 .. _write_question_contributor_ref:
 
-Write a Question for a Skill as a Contributor
-=============================================
+Write a Question for a Skill
+============================
 
-Practice questions help learners review and master the skills they learn in each exploration. While lesson creators build the primary path, contributors help by creating a library of additional practice questions for specific skills.
+As a contributor, you can help create a library of additional practice questions
+for specific skills, so learners can review and master what they learn in each
+exploration.
 
 **In this article, you will learn how to:**
 

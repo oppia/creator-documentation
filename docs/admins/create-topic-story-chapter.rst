@@ -98,5 +98,5 @@ New Chapter Navigation
 Select **Add a new destination chapter** to create subsequent chapters for the story. As you create Chapters, they will appear in a list on the left-hand side.
 
 * Select the new Chapter from the list to import another Exploration and select Skills.
-* Continue adding chapters as needed for the Story.
+* Continue adding chapters to the Story as needed.
 * Select **Save changes** and **Publish story** once complete.

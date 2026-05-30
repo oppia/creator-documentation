@@ -6,17 +6,16 @@ Improve a lesson
 
 In this article, you will learn how to:
 
-* :ref:`view_basic_lesson_statistics_ref`
-* :ref:`view_detailed_lesson_statistics_ref`
+* :ref:`view_lesson_statistics_ref`
 * :ref:`review_feedback_on_a_card_ref`
 * :ref:`add_branches_to_a_lesson_ref`
 
-.. _view_basic_lesson_statistics_ref:
+.. _view_lesson_statistics_ref:
 
-View basic lesson statistics
-============================
+View lesson statistics
+======================
 
-In the Creator Dashboard, below each lesson you’ve created is the:
+In the Creator Dashboard, below each lesson you'll see:
 
 * Average rating (star icon)
 * Views (eye icon)
@@ -29,9 +28,6 @@ In the Creator Dashboard, below each lesson you’ve created is the:
    *Fig. 1. Lessons a lesson creator has made*
 
 .. _view_detailed_lesson_statistics_ref:
-
-View detailed lesson statistics
-===============================
 
 To view detailed lesson statistics:
 
@@ -66,7 +62,8 @@ Oppia also provides statistics on where the learner quit in a lesson.
 
    *Fig. 3. Statistics showing how many left before completing a lesson*
 
-1. To see statistics on the exit rate, select the card on the **Statistics** screen. A pop up will appear with details about how many learners exited on 
+1. To see statistics on the exit rate, open the **Statistics** panel and select
+   the card. A pop up appears with details about how many learners exited on
    that card. 
 
 .. figure:: /images/creators/card_exit_details.png
@@ -96,7 +93,7 @@ Learners can provide feedback on each card as they go through a lesson.
 2. Select **Open** to respond to the feedback. 
 3. Respond to the feedback and select **Send**. If you’re still working on the 
    task, leave the status open. You can also change the status based on your 
-   response. 
+   response.
 
 .. figure:: /images/creators/feedback_thread_response.png
    :alt: An open feedback thread with a text area for responding to the learner and a dropdown to change the status.
@@ -113,23 +110,15 @@ help learners understand the concept. This is the *trunk* of your lesson. You
 can add branches to this trunk as learners engage with your lesson and you 
 notice patterns in their responses.
 
-For example, if learners consistently get incorrect answers on a particular 
-card, redirect them to a different branch that provides an in-depth explanation 
-(with one or more cards), which would eventually rejoin the main path of the 
-lesson.
-
 .. figure:: /images/creators/branched_lesson_overview.png
    :alt: A flow diagram in the Exploration Overview showing a main path with a side branch for addressing misconceptions.
 
    *Fig. 7. Example of a branched lesson*
 
-Add a branch to a lesson
-------------------------
-
-Suppose learners are answering ‘Hundredths’ to a decimal place-value question; 
-this indicates they are mistakenly equating the place values of decimals with 
-those of whole numbers. You can branch out from this card and provide further 
-explanation to correct this misconception.
+For example, if learners are answering "Hundreds" to a decimal place-value
+question, this might indicate that they are mistakenly equating the place
+values of decimals with those of whole numbers. You can branch out from this
+card and provide further explanation to correct this misconception.
 
 1. In **Exploration Editor**, select the card in question, and under 
    **Learner’s Answers and Oppia’s responses**, select the incorrect answer 

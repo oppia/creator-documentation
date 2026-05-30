@@ -28,10 +28,10 @@ Assigning a Skill to a Topic keeps it organized with related material and allows
 
 **To assign a skill to a Topic:**
 
-1. In the **Topics and Skills Dashboard**, find your Skill.
-2. Next to the **Unassigned** label, select the **three vertical dots**.
-3. In the dropdown menu, select **Assign to Topic**.
-4. In the dialog box that appears, search for the Topic you want.
+1. In the **Topics and Skills Dashboard**, locate your Skill.
+2. Select the three dots next to  **Unassigned**.
+3. Select **Assign to Topic** from the dropdown menu.
+4. Search for the desired topic in the dialog box that appears.
 
    .. figure:: /images/admins/assign_skill_topic_dialog.png
       :alt: Dialog to assign a skill to a topic
@@ -39,7 +39,7 @@ Assigning a Skill to a Topic keeps it organized with related material and allows
 
       *Fig. 2. Dialog to assign a skill to a topic*
 
-5. Select the Topic from the list. It will highlight in green when selected.
+5. Select the Topic from the list. It will be highlighted in green when selected.
 6. Select **Save** to assign the Skill to the Topic.
 
 ---
@@ -86,7 +86,7 @@ Create a Subtopic
 Assign a Skill to a Subtopic
 ----------------------------
 
-Once created, Subtopics appear below the **Uncategorized Skills** section.
+Once a subtopic is created, it appears under the **Uncategorized Skills** section.
 
 **To assign a Skill to a Subtopic:**
 

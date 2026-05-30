@@ -3,10 +3,9 @@
 Create a New Skill
 ==================
 
-Each lesson needs one or more skills. These are the key abilities that
-learners will learn through the course of the lesson. Creating a skill
-provides meaningful benchmarks for the learner and makes it easier to
-test what they’ve learned.
+Each lesson needs at least one skill. These are the key abilities learners will
+develop throughout the lesson. Creating a skill provides meaningful benchmarks
+for the learner and makes it easier to test what they've learned.
 
 **In this article, you will learn how to:**
 
@@ -37,7 +36,8 @@ How to Create a Skill
 .. admonition:: Note
    :class: info
 
-   Once you select **Save**, the skill has already been created but it is **not published**. Use the Skill Editor to expand and refine what you’ve started before publishing.
+   Once you select Save, the skill is created but **not published**. Use the
+   Skill Editor to expand and refine what you've started before publishing.
 
 ---
 
@@ -54,7 +54,7 @@ A short description of the skill learners will develop. This appears whenever th
 
 Review Material
 ---------------
-A quick overview of the skill’s use and relevance.
+A quick overview of the skill's use and relevance.
 
 Misconceptions
 --------------
@@ -71,7 +71,8 @@ Brief descriptions of what an easy, medium, or hard question looks like for this
 Write the Concept Card for a Skill
 ==================================
 
-In Oppia, the **Concept Card** is what learners see when they need extra help. It consists of two sections:
+In Oppia, learners interact with a **Concept Card** when they need extra help.
+It consists of two sections:
 
 * **Skill Description**: The name/title of the skill.
 * **Review materials**: A brief overview of the skill and how to perform it.

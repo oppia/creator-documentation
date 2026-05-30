@@ -3,7 +3,8 @@
 Plan Lesson Content
 ===================
 
-Before jumping into the editor, taking the time to plan your content ensures a logical structure that is easy to follow and keeps learners engaged.
+Before using the editor, plan your content for a clear, logical structure that
+engages learners.
 
 **In this article, you will learn how to:**
 
@@ -18,11 +19,14 @@ Before jumping into the editor, taking the time to plan your content ensures a l
 Start with a Goal
 -----------------
 
-Every exploration should have a specific, measurable question in mind that the learner should be able to answer by the end.
+Each exploration should have a clear, measurable question that the learner
+can answer by the end.
 
 * **Example:** "What is the decimal equivalent of 1/2?"
 
-By working backward from this goal, you ensure that every card in your lesson serves a purpose in leading the learner to that final understanding.
+By working backwards from this goal, you can ensure that every lesson card
+moves the learner towards having the necessary understanding to answer such
+questions in the future.
 
 ---
 
@@ -31,7 +35,9 @@ By working backward from this goal, you ensure that every card in your lesson se
 Build a Lesson Path
 -------------------
 
-Your lesson path consists of a series of supporting questions and answers that scaffold the learner's understanding. For the decimal example, this might involve comparing fractions to decimals or understanding place value.
+Your lesson path uses supporting questions and answers to deepen learners'
+understanding. For the decimal example, this might involve comparing fractions
+and decimals or examining place values.
 
 
 

@@ -4,42 +4,35 @@
 Lesson setup
 ============
 
-In this article, you will learn how to:
-
-* :ref:`visit_exploration_editor_ref`
-* :ref:`enter_basic_lesson_information_ref`
-
-.. _visit_exploration_editor_ref:
+In this article, you will learn how to set up the exploration editor.
 
 Visit the Exploration Editor
 ============================
 
-1. First, hover over your profile photo in the top right corner of any page and 
-   select **Creator Dashboard** from the dropdown menu.
-2. From there, select **Create Exploration**. This will open the 
-   **Exploration Editor**.
+1. Select your profile photo in the top right corner, then select **Creator
+   Dashboard** from the dropdown menu.
+2. Select **Create Exploration**. This will open the **Exploration Editor**.
 
 Exploration Editor
 ------------------
 
-The **Exploration Editor** shows one card at a time. As you continue creating 
-and expanding your exploration, you'll be adding to the number of cards, all of 
-which will be visible in the **Exploration Overview** panel.
+The **Exploration Editor** displays one card at a time. As you create and
+expand your exploration, you add more cards, all of which appear in the
+**Exploration Overview** panel.
 
-You will be able to edit any card at any time by selecting the corresponding 
-box in the **Exploration Overview** panel.
+You can edit any card at any time by selecting its box in the **Exploration
+Overview** panel.
 
 .. _enter_basic_lesson_information_ref:
 
-Enter basic lesson information
-==============================
-
-There are several required fields on the **Settings** page. It’s best to do this 
-before creating lesson content, but you can update these settings any time.
+There are several required fields on the **Settings** page. Make sure to
+provide the details before creating lesson content. You can update these
+settings at any time.
 
 To access the Creator Dashboard settings:
 
-1. Select **Settings** in the navigation menu in the **Creator Dashboard**.
+1. In the Creator Dashboard, select **Create Exploration**, and select
+   **Settings**.
 2. Fill out the required fields under **Basic Settings**.
 
 .. figure:: /images/creators/exploration_editor_settings.png
@@ -47,8 +40,9 @@ To access the Creator Dashboard settings:
 
    *Fig. 1. Basic lesson settings*
 
-1. To see how your exploration will appear to a learner as they search the 
-   community library, select **Preview Summary**. The **Title** and **Goal** fields are displayed in the preview.
+3. To see how your exploration will appear to a learner as they search the
+   community library, select **Preview Summary**. You can see the **Title** and
+   **Goal** fields in the preview.
 
 .. figure:: /images/creators/summary_card_preview.png
    :alt: A preview of the lesson summary card showing how the title and goal appear to learners in the library.

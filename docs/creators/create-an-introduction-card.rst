@@ -1,9 +1,7 @@
 .. _create_introduction_card_ref:
 
-Create an Introduction Card
-===========================
-
-The introduction card is the first screen learners see when they choose your lesson. It sets the tone for the entire exploration and provides the hook that keeps them engaged.
+Learners see the introduction card first when they choose a lesson. It sets the
+tone for the entire exploration and provides the context for an engaging lesson.
 
 **In this article, you will learn how to:**
 
@@ -17,12 +15,13 @@ The introduction card is the first screen learners see when they choose your les
 Create an Introduction Card
 ---------------------------
 
-Your introduction should do more than just title the lesson; it should act as a gateway to the learning experience. Follow these four steps to create a strong opening:
+Your introduction should act as a gateway to the learning experience. Follow
+these steps to create a strong opening:
 
-1. **Introduce your topic.** Define what you are going to teach and what makes the subject unique.
+1. **Introduce your topic.** Define what you will teach and what makes the subject unique.
 2. **Excite the learner.** Use an interesting fact or a short story to spark curiosity.
 3. **Ask a leading question.** While optional, this encourages active thinking before the lesson officially begins.
-4. **Identify required materials.** If the learner needs paper, a pen, or a calculator, mention it here so they are prepared.
+4. **Identify required materials.** Let the learner know what materials they will need during a lesson.
 
 .. admonition:: Example Introduction
    :class: tip
@@ -44,9 +43,9 @@ Once you’ve finished writing your introduction, select **Save Content.**
 Add a Continue Button
 ---------------------
 
-Because an introduction card usually provides information rather than asking a specific question, you need a way for the learner to move forward. This is done with a **Continue Button**.
+The **Continue Button** allows the learners to move forward after the introduction card.
 
-1. Select the **+Add Interaction** button located below your saved content.
+1. Select **+Add Interaction**, located below your saved content.
 
    .. figure:: /images/creators/add_continue_button.png
       :alt: Selecting the Continue button from the interaction menu

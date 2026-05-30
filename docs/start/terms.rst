@@ -22,10 +22,10 @@ Key Terms used in Oppia
 Story
 -----
 
-A story consists of a set of lessons used to teach a topic based on a
-real-life example. For example, if the topic is Decimals, the story
-might introduce the concept by presenting a scenario where a customer is
-in a shop paying an X amount in dollars and cents.
+A story is a set of lessons that teaches a topic with real-life examples. For
+example, if the topic is Decimals, the story might introduce the concept by
+presenting a scenario where a customer is in a shop paying an X amount in
+dollars and cents.
 
 .. _topic_ref:
 
@@ -41,16 +41,16 @@ set of lessons) and standalone lessons.
 Subtopic
 --------
 
-A subtopic is a group of Skills within a Topic. Subtopics enable
-learners to review and practice their Skills.
+A subtopic is a group of Skills within a Topic. Subtopics help
+learners review and practice their Skills.
 
 .. admonition:: Important Note
    :class: important
 
    * If a Skill is not assigned to a Subtopic, learners cannot practice
      that Skill.
-   * If a Topic contains no Subtopics, learners won’t be able to practice
-     the Topic.
+   * If a Topic has no Subtopics, learners won't be able to practice
+     the Topic they've learned.
 
 .. figure:: /images/Subtopic.png
    :alt: Visual hierarchy of Topics and Subtopics
@@ -64,9 +64,9 @@ Skill
 -----
 
 Learners learn a Skill as they progress through a Topic. For example, in
-the Topic decimals, students will also learn Skills like comparing
-decimals, adding decimals, converting decimals to fractions, etc. Each
-Skill belongs to a Topic and supports learning of that Topic.
+the Topic decimals, students will also learn Skills such as comparing, adding,
+and converting decimals to fractions. Each Skill belongs to a Topic and
+supports learning of that Topic.
 
 .. figure:: /images/Topic_hierarchy.png
    :alt: Visual hierarchy of Topics and Stories
@@ -96,7 +96,7 @@ Card
 ----
 
 A lesson is made up of a series of cards, where each card consists of
-the tutor’s question (the content) and the learners answer (the
+the tutor's question (the content) and the learner's answer (the
 interaction).
 
 .. _content_ref:
@@ -104,9 +104,9 @@ interaction).
 Content
 -------
 
-Content refers to the situation and question the tutor asks on a card.
+Content refers to the situation and question a tutor asks on a card.
 The content may include pictures and a brief context description before
-a question is asked.
+asking a question.
 
 .. _interaction_ref:
 
@@ -115,8 +115,8 @@ Interaction
 
 An interaction is the answer learners provide in response to a question
 (content) and the feedback (response) from Oppia. The interaction type
-depends on the lesson being taught. For example, a math lesson has
-interactions that are different from a programming lesson.
+depends on the lesson being taught. For example, a math lesson involves
+interactions that differ from those in a programming lesson.
 
 .. figure:: /images/Explorations.png
    :alt: Exploration hierarchy in Oppia

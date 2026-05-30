@@ -3,7 +3,9 @@
 Create a Skill Tree
 ===================
 
-A **Skill Tree** is the foundational blueprint for any Oppia Topic. It outlines every granular ability a learner must master. To understand how this fits into the broader ecosystem, review the :ref:`Key Terms <terms_ref>` and their relationships.
+A **Skill Tree** is the basic blueprint for any Oppia Topic. It shows every
+skill a learner must master. To see how it fits in, review the
+:ref:`Key Terms <terms_ref>` and how they relate to one another.
 
 **In this article, you will learn how to:**
 
@@ -17,7 +19,9 @@ A **Skill Tree** is the foundational blueprint for any Oppia Topic. It outlines 
 Build the Skill Tree Structure
 ------------------------------
 
-To identify the Skills needed, start with the final learning goals and **work backwards**. List out the questions a learner should be able to answer, then identify the specific skills required to solve them.
+To identify the Skills needed, start with the final learning goals and
+**work backward**. List out the questions a learner should be able to answer,
+then identify the specific skills required to solve them.
 
 .. figure:: /images/admins/lesson_creation_process.png
    :alt: Visual of the lesson creation process
@@ -51,11 +55,17 @@ A Skill Tree includes:
    * Ensure feedback is drafted for each misconception to be used in the Exploration's answer groups.
 
 **5. Rubrics**
-   Guidelines for question creators to ensure consistency across difficulty levels:
+   Guidelines for question creators to ensure consistency across difficulty
+   levels. The difficulty levels are defined as follows:
 
-   * **Easy:** Basic identification/application.
-   * **Medium:** Multi-step application.
-   * **Hard:** Complex application or edge cases (e.g., "Given a decimal less than 1...").
+   * **Easy:** Questions where artificial help/scaffolding is provided, or the
+     learner is only required to perform a small part of the skill (e.g.,
+     standard multiple-choice questions).
+   * **Medium:** Straightforward, direct application of the skill without extra
+     assistance or heavy scaffolding.
+   * **Hard:** Questions that require a deeper conceptual understanding (moving
+     beyond routine manipulation or rote recall) or those that require
+     combining multiple distinct skills.
 
 .. tip:: For more detailed guidance, see the :ref:`Skill Tree Best Practices <build_skills_topic_ref>`.
 

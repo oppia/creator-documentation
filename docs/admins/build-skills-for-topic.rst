@@ -25,7 +25,7 @@ The admin or topic manager should break down a Topic into as many concrete **Ski
 
    If the Topic is decimals, generate all possible Skills related to this subject, such as:
 
-   * Given a decimal with a zero in the one’s place, recognize that the decimal is less than one.
+   * Given a decimal with a zero in the ones place, recognize that the decimal is less than one.
    * Given a decimal number, identify the whole number and fractional parts of the decimal.
    * Given a whole number, write the decimal equivalent.
 
@@ -51,12 +51,13 @@ This logical flow makes it easier to plan the lesson structure. As learners prog
 3. Group Skills into Subtopics
 ------------------------------
 
-After arranging the Skills logically, group them into **Subtopics**. This organization allows learners to review and practice specific clusters of knowledge.
+After arranging the Skills logically, group them into **Subtopics** so that
+learners can review and practice specific knowledge clusters.
 
 **Example Grouping:**
 
 * **Subtopic: Introduction to Decimals**
-    * Given a decimal with a zero in the one’s place, recognize that the decimal is less than one.
+    * Given a decimal with a zero in the ones place, recognize that the decimal is less than one.
     * Given a decimal number, identify the whole number and fractional parts of the decimal.
 
 * **Subtopic: Decimal Concepts**
@@ -75,9 +76,14 @@ Identify skills a learner must have that may not be part of the immediate topic 
 * **External Skills:** Knowledge from outside the current topic.
 * **Internal Skills:** Specific Skills from previous lessons in the series.
 
-Specifying these allows Oppia to generate random review questions at the start of each lesson to ensure learners have mastered the foundations required for the current material.
+Specifying these allows Oppia to generate random review questions at the start
+of each lesson. This ensures learners have mastered the foundations required for
+the current material before proceeding.
 
 5. List Acquired Skills
 -----------------------
 
-Clearly define the "Acquired Skills"—the specific abilities learners will have mastered by the end of the lesson. This list serves as the primary roadmap for lesson creators when building their explorations.
+Finally, clearly define the “Acquired Skills” — the specific abilities learners
+will have mastered by the end of the lesson. This final list serves as the
+primary roadmap for lesson creators during the development of their
+explorations.
