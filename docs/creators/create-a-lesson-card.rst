@@ -88,9 +88,9 @@ from.
 5. Select **Save Interaction**. The **Responses** panel opens.
 6. In the **Add Response** panel, provide details on how Oppia should respond
    based on the learner’s answer. In the **Add Response** panel, you can:
-    * Move the learner to a new card
-    * Ask them to try again
-    * Offer feedback based on their response
+   * Move the learner to a new card
+   * Ask them to try again
+   * Offer feedback based on their response
 
 
 .. _add_responses_ref:

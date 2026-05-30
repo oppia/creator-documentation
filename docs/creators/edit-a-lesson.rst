@@ -20,7 +20,7 @@ Edit a lesson in the Exploration Editor
 1. Select your profile photo in the top right corner of any page.
 2. Select **Creator Dashboard** from the dropdown menu.
 3. Select the lesson you would like to edit. This will open the
-  **Exploration Editor**.
+   **Exploration Editor**.
 
 .. _edit_a_card_in_the_exploration_overview_ref:
 

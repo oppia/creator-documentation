@@ -24,8 +24,7 @@ To save and publish in the **Exploration Editor**:
    bar to ensure you publish the most up-to-date version.
 2. Select **Publish** above the **Exploration Editor** navigation
    bar.
-   * Add additional details about your exploration such as a goal, a category,
-     tags, etc.
+   * Add additional details about your exploration such as a goal, a category, tags, etc.
 3. Select **Save Changes**.
 
 Your lesson is now live on the Oppia platform. You can view or share the
