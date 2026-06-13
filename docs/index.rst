@@ -111,6 +111,31 @@ educational content.
 .. Hidden Toctrees for Sidebar Navigation
 .. --------------------------------------
 
+Setup Guide for Contributors
+============================
+
+1. Install Python 3.x
+
+2. Create a virtual environment:
+   python -m venv env
+
+3. Activate the environment:
+
+   Windows:
+   env\Scripts\activate
+
+   Linux/Mac:
+   source env/bin/activate
+
+4. Install dependencies:
+   pip install -r requirements.txt
+
+5. Install Sphinx:
+   pip install sphinx
+
+6. Build HTML files:
+   make html
+
 .. toctree::
    :maxdepth: 2
    :hidden:
